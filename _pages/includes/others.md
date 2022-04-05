@@ -1,5 +1,10 @@
 
 
+
+# ![04D700D0](https://user-images.githubusercontent.com/23012102/161746152-f72c4147-6586-4b99-8d02-f4c761e7b620.png) Patent & China Software-copyright
+1. Image Segmentation Method Based on Generalized Entropy Combined with an Improved Lion Group Algorithm. **(Pending & Public No: CN109712160A)**
+2. Image Dataset Toolbox. **(Software-copyright,** **No: 2019SR0392414)**
+
 # ![04D695E1](https://user-images.githubusercontent.com/23012102/161746081-23a293be-c2b0-4b21-9d5d-8b0bcfbdc882.png) Services & Teaching Assistants
 - [**OSA**](https://www.optica.org/en-us/home/) Member (**Optical Society of America)**
 - Journal Reviewer
@@ -8,11 +13,7 @@
     - ***[Applied Optics](https://www.osapublishing.org/ao/home.cfm)*    
     IF:1.980 | Publisher: *[OSA](https://www.optica.org/en-us/home/)***
 
-Lecture: ***Computer Network*** (Spring Term, 2020)
-
-# ![04D700D0](https://user-images.githubusercontent.com/23012102/161746152-f72c4147-6586-4b99-8d02-f4c761e7b620.png) Patent & China Software-copyright
-1. Image Segmentation Method Based on Generalized Entropy Combined with an Improved Lion Group Algorithm. **(Pending & Public No: CN109712160A)**
-2. Image Dataset Toolbox. **(Software-copyright,** **No: 2019SR0392414)**
+- Lecture: ***Computer Network*** (Spring Term, 2020)
 
 # ![04D0E093](https://user-images.githubusercontent.com/23012102/161745157-4237d59b-822a-42bd-aa6c-9f7b21cb7566.png) Events
 
