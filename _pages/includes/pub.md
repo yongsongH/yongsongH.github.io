@@ -1,6 +1,13 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
+
+1. **Yongsong Huang**, Zetao Jiang, Rushi Lan, Shaoqin Zhang, and Kui Pi. "[Infrared Image Super-Resolution via Transfer Learning and PSRGAN.](https://ieeexplore.ieee.org/abstract/document/9424970/)" *IEEE Signal Processing Letters* 28 (2021): 982-986. (JCR Q2, IF: 3.105, *[**Code**](https://github.com/yongsongH/Infrared-Image_PSRGAN)*)
+2. **Yongsong Huang**, Zetao Jiang, Qingzhong Wang, Qi Jiang and Guoming Pang ”[Infrared Image Super-Resolution via Heterogeneous Convolutional Wasserstein GAN.](https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35)” In *Pacific Rim International Conference on Artificial Intelligence (pp. 461-472). Springer, Cham. *****(PRICAI 2021, [Oral](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf), [CCF C](https://www.ccf.org.cn/en/), [H5-index: 13](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=PRICAI&btnG=))
+3. Zetao Jiang, **Yongsong Huang**, and Lirui Hu. "[Single image super-resolution: Depthwise separable convolution super-resolution generative adversarial network](https://www.mdpi.com/610058)." *Applied Sciences* 10, no. 1 (2020): 375. (JCR Q2, Corresponding Author, IF: 2.474)
+4. Zetao Jiang, Kui Pi, **Yongsong Huang**, Yi Qian, and Shaoqin Zhang. "[Difference Value Network for Image Super-Resolution.](https://ieeexplore.ieee.org/abstract/document/9430739/)" *IEEE Signal Processing Letters* 28 (2021): 1070-1074. 
+5. Zetao Jiang, Qi Jiang, **Yongsong Huang**, Shaoqin Zhang. "[Infrared and Low-light-level Visible Light Enhancement Image Fusion Method Based on Latent Low-rank Representation and Composite Filtering.](http://www.opticsjournal.net/Articles/Abstract/gzxb/49/4/0410001.cshtml)" *Acta Photonica Sinica* 49, no. 4 (2020): 410001. (SCI Q4)
+
+<!-- ## 🎙 Speech Synthesis
 
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div>
@@ -83,4 +90,4 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 
 ## 🧑‍🎨 Generative Model
 - [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao, **ICLR 2022** \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
-
+ -->
