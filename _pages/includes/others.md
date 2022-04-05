@@ -16,10 +16,9 @@ Lecture: ***Computer Network*** (Spring Term, 2020)
 
 # ![04D0E093](https://user-images.githubusercontent.com/23012102/161745157-4237d59b-822a-42bd-aa6c-9f7b21cb7566.png) Events
 
-> [**The 18th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2021)**](https://www.pricai.org/2021/) | *Nov. 2021*  | **Hanoi, *Vietnam***                   
+> [**Hanoi, Vietnam | The 18th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2021)**](https://www.pricai.org/2021/)                  
 
-> [**The 2nd International Conference on
-Medical Image and Computer-Aided Diagnosis (MICAD 2021)**](http://www.micad.org/#) | *May. 2021*  | **Birmingham, UK***
+> [**Birmingham, UK | The 2nd International Conference on Medical Image and Computer-Aided Diagnosis (MICAD 2021)**](http://www.micad.org/#) 
 
 
 
