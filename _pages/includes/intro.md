@@ -1,2 +1,2 @@
-# Bio.
+# ![0516285B](https://user-images.githubusercontent.com/23012102/161757341-b8e922d0-b7d4-43aa-95c3-b88a66460499.png) Bio.
 I am working in the [*Laboratory for Image Information Communications*](http://www.iic.ecei.tohoku.ac.jp/index.html) at [Tohoku University](https://www.tohoku.ac.jp/en/), supervised by [*Prof. Shinichiro OMACHI*](https://scholar.google.com/citations?user=_tM6ZlwAAAAJ&hl=en&oi=ao). I obtained my B.Eng. and M.Eng. from the *[Guilin University of Electronic Technology](https://www.guet.edu.cn/)* in 2018 and 2021, respectively. Currently, I am also a member of *[OSA](https://www.optica.org/en-us/home/).* My research interests include computer vision and deep learning, particularly focusing on **image processing** and **super-resolution**.
