@@ -42,7 +42,7 @@ Medical Image and Computer-Aided Diagnosis (MICAD 2021)**](http://www.micad.org/
     ```
     
     [ [Dataset](https://doi.org/10.6084/m9.figshare.13359632.v2) | [Code](https://github.com/yongsongH/Infrared-Image_PSRGAN) | [Pre-trained Models](https://figshare.com/articles/dataset/Pre-trained_models/16591973) | [Slide](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf) ]
-    
+ ---    
 - [HetSRWGAN](https://www.notion.so/Yongsong-HUANG-e817d4e3f7e6428485225f96277a46ca)
     
     ```latex
@@ -58,7 +58,7 @@ Medical Image and Computer-Aided Diagnosis (MICAD 2021)**](http://www.micad.org/
     ```
     
     [ [Dataset](https://doi.org/10.6084/m9.figshare.9862184.v3) | [Slide](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf) ]
-    
+ ---   
 - [DSCSRGA](https://www.notion.so/Yongsong-HUANG-e817d4e3f7e6428485225f96277a46ca)N
     
     ```latex
