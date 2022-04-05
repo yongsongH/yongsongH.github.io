@@ -14,7 +14,7 @@ Lecture: ***Computer Network*** (Spring Term, 2020)
 1. Image Segmentation Method Based on Generalized Entropy Combined with an Improved Lion Group Algorithm. **(Pending & Public No: CN109712160A)**
 2. Image Dataset Toolbox. **(Software-copyright,** **No: 2019SR0392414)**
 
-# :palm_tree: Events
+# ![04D0E093](https://user-images.githubusercontent.com/23012102/161745157-4237d59b-822a-42bd-aa6c-9f7b21cb7566.png) Events
 
 > [**The 18th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2021)**](https://www.pricai.org/2021/) | *Nov. 2021*  | **Hanoi, *Vietnam***                   
 
@@ -23,7 +23,7 @@ Medical Image and Computer-Aided Diagnosis (MICAD 2021)**](http://www.micad.org/
 
 
 
-# :bell: Datasets
+# ![04D1012B](https://user-images.githubusercontent.com/23012102/161745176-20a41d63-3073-4c72-b7e2-f7fac6a12bc9.png) Datasets
 
 - [PSRGAN](https://www.notion.so/Yongsong-HUANG-e817d4e3f7e6428485225f96277a46ca)
     
@@ -41,7 +41,7 @@ Medical Image and Computer-Aided Diagnosis (MICAD 2021)**](http://www.micad.org/
     doi={10.1109/LSP.2021.3077801}}
     ```
     
-    [ [Dataset](https://doi.org/10.6084/m9.figshare.13359632.v2) | [Code](https://github.com/yongsongH/Infrared-Image_PSRGAN) | [Pre-trained Models](https://figshare.com/articles/dataset/Pre-trained_models/16591973) | [Slide](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf) ]
+    [ [Dataset](https://doi.org/10.6084/m9.figshare.13359632.v2) | [Code](https://github.com/yongsongH/Infrared-Image_PSRGAN) | [Pre-trained Models](https://figshare.com/articles/dataset/Pre-trained_models/16591973) | [Slide](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf)]
  ---    
 - [HetSRWGAN](https://www.notion.so/Yongsong-HUANG-e817d4e3f7e6428485225f96277a46ca)
     
