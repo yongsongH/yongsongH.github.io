@@ -25,7 +25,7 @@
 
 # ![04D1012B](https://user-images.githubusercontent.com/23012102/161745176-20a41d63-3073-4c72-b7e2-f7fac6a12bc9.png) Datasets
 
-- **PSRGAN**  | [Dataset](https://doi.org/10.6084/m9.figshare.13359632.v2) | [Code](https://github.com/yongsongH/Infrared-Image_PSRGAN) | [Pre-trained Models](https://figshare.com/articles/dataset/Pre-trained_models/16591973) | [Slide](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf) |
+- **PSRGAN**   [Dataset](https://doi.org/10.6084/m9.figshare.13359632.v2) | [Code](https://github.com/yongsongH/Infrared-Image_PSRGAN) | [Pre-trained Models](https://figshare.com/articles/dataset/Pre-trained_models/16591973) | [Slide](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf) |
 
     
     ```latex
@@ -44,7 +44,7 @@
     
   
  ---    
-- **HetSRWGAN**  | [Dataset](https://doi.org/10.6084/m9.figshare.9862184.v3) | [Slide](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf) |
+- **HetSRWGAN**   [Dataset](https://doi.org/10.6084/m9.figshare.9862184.v3) | [Slide](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf) |
     
     ```latex
     @inproceedings{huang2021infrared,
@@ -60,7 +60,7 @@
     
    
  ---   
-- **DSCSRGA** | [Dataset](https://doi.org/10.6084/m9.figshare.9785438.v2) |
+- **DSCSRGA**  [Dataset](https://doi.org/10.6084/m9.figshare.9785438.v2) |
     
     ```latex
     @article{jiang2020single,
