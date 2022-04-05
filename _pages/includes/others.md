@@ -8,8 +8,8 @@
 # ![04D695E1](https://user-images.githubusercontent.com/23012102/161746081-23a293be-c2b0-4b21-9d5d-8b0bcfbdc882.png) Services & Teaching Assistants
 - [**OSA**](https://www.optica.org/en-us/home/) Member (**Optical Society of America)**
 - Journal Reviewer
-    - ***[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)*  IF:3.867 | Publisher: *[Elsevier](https://www.elsevier.com/)***
-    - ***[Applied Optics](https://www.osapublishing.org/ao/home.cfm)*   IF:1.980 | Publisher: *[OSA](https://www.optica.org/en-us/home/)***
+    - ***[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)*，  IF:3.867- Publisher: *[Elsevier](https://www.elsevier.com/)***
+    - ***[Applied Optics](https://www.osapublishing.org/ao/home.cfm)*，   IF:1.980- Publisher: *[OSA](https://www.optica.org/en-us/home/)***
 
 - Lecture: ***Computer Network*** (Spring Term, 2020)
 
