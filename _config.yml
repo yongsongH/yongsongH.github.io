@@ -7,9 +7,8 @@
 
 # Site Settings
 title                    : "Yongsong HUANG | 黄 永松"
-description              : "As a Ph.D. student, I am working in the Laboratory for Image Information Communications at Tohoku University, supervised by 
-Prof. Shinichiro OMACHI. Focusing on image processing and super-resolution."
-repository               : "yongsongH/yongsongH.github.io"
+description              : "Ph.D. student, supervised by Prof. Shinichiro OMACHI. Focusing on image processing and super-resolution."
+repository               : "hyongsong.work"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -18,7 +17,7 @@ google_analytics_id      : G-SWFCX99KQZ
 
 # Site Author
 author:
-  name             : "Yongsong HUANG | 黄 永松"
+  name             : "Yongsong HUANG"
   avatar           : "images/IMG_1696.png"
   bio              : "Tohoku University"
   location         : "Sendai, Japan"
