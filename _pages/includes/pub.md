@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# ![04E4E92D](https://user-images.githubusercontent.com/23012102/161748567-82646cad-9e4e-4581-bb1d-251548802d84.png) Publications 
 
 1. **Yongsong Huang**, Zetao Jiang, Rushi Lan, Shaoqin Zhang, and Kui Pi. "[Infrared Image Super-Resolution via Transfer Learning and PSRGAN.](https://ieeexplore.ieee.org/abstract/document/9424970/)" *IEEE Signal Processing Letters* 28 (2021): 982-986. (JCR Q2, IF: 3.105, *[**Code**](https://github.com/yongsongH/Infrared-Image_PSRGAN)*)
 2. **Yongsong Huang**, Zetao Jiang, Qingzhong Wang, Qi Jiang and Guoming Pang ”[Infrared Image Super-Resolution via Heterogeneous Convolutional Wasserstein GAN.](https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35)” In *Pacific Rim International Conference on Artificial Intelligence (pp. 461-472). Springer, Cham.*(PRICAI 2021, [Oral](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf), [CCF C](https://www.ccf.org.cn/en/), [H5-index: 13](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=PRICAI&btnG=))
