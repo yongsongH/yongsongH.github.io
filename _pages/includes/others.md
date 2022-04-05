@@ -13,9 +13,3 @@ Lecture: ***Computer Network*** (Spring Term, 2020)
 # 💻 Patent & China Software-copyright
 1. Image Segmentation Method Based on Generalized Entropy Combined with an Improved Lion Group Algorithm. **(Pending & Public No: CN109712160A)**
 2. Image Dataset Toolbox. **(Software-copyright,** **No: 2019SR0392414)**
-3. 
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
- -->
