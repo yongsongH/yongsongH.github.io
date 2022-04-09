@@ -58,7 +58,7 @@
     
    
  ---   
-- **DSCSRGA** - Sources include: [Dataset](https://doi.org/10.6084/m9.figshare.9785438.v2) 
+- **DSCSRGAN** - Sources include: [Dataset](https://doi.org/10.6084/m9.figshare.9785438.v2) 
     
     ```latex
     @article{jiang2020single,
