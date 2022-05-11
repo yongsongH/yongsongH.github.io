@@ -23,7 +23,7 @@
 
 # 🍞 Datasets
 
-- **PSRGAN**  - Sources include: [Dataset](https://doi.org/10.6084/m9.figshare.13359632.v2), [Code](https://github.com/yongsongH/Infrared-Image_PSRGAN), [Pre-trained Models](https://figshare.com/articles/dataset/Pre-trained_models/16591973), [Slide](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf) 
+- **PSRGAN**  - Sources include: [Dataset](https://doi.org/10.6084/m9.figshare.13359632.v2), [<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN), [Slide](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf) 
 
     
     ```latex
