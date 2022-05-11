@@ -8,8 +8,8 @@
 # 📍 Services and Teaching Assistants
 - [**OSA**](https://www.optica.org/en-us/home/) Member (**Optical Society of America)**
 - Journal Reviewer
-    - ***[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)*，  IF:3.867- Publisher: *[Elsevier](https://www.elsevier.com/)***
-    - ***[Applied Optics](https://www.osapublishing.org/ao/home.cfm)*，   IF:1.980- Publisher: *[OSA](https://www.optica.org/en-us/home/)***
+    -  <img alt="URL badge" src="https://img.shields.io/badge/Publisher--lightgrey?logo=Elsevier&amp;style=social"> - *[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)*
+    - ![OSA](https://img.shields.io/badge/Publisher-OSA-success.svg?style=flat-square) - *[Applied Optics](https://www.osapublishing.org/ao/home.cfm)* 
 
 - Lecture: ***Computer Network*** (Spring Term, 2020)
 
@@ -23,7 +23,7 @@
 
 # 🍞 Datasets
 
-- **PSRGAN**  - Sources include: [Dataset](https://doi.org/10.6084/m9.figshare.13359632.v2), [<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN), [Slide](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf) 
+- [![](https://img.shields.io/badge/Dataset-PSRGAN-red.svg)](https://doi.org/10.6084/m9.figshare.13359632.v2), [![](https://img.shields.io/badge/Slide-PSRGAN-red.svg)](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf), [<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN)
 
     
     ```latex
@@ -42,7 +42,7 @@
     
   
  ---    
-- **HetSRWGAN** - Sources include:  [Dataset](https://doi.org/10.6084/m9.figshare.9862184.v3), [Slide](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf )
+- [![](https://img.shields.io/badge/Dataset-HetSRWGAN-61649f.svg)](https://doi.org/10.6084/m9.figshare.9862184.v3), [![](https://img.shields.io/badge/Slide-HetSRWGAN-61649f.svg)](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf)
     
     ```latex
     @inproceedings{huang2021infrared,
@@ -58,7 +58,7 @@
     
    
  ---   
-- **DSCSRGAN** - Sources include: [Dataset](https://doi.org/10.6084/m9.figshare.9785438.v2) 
+- [![](https://img.shields.io/badge/Dataset-DSCSRGAN-7a7374.svg)](https://doi.org/10.6084/m9.figshare.9862184.v3)
     
     ```latex
     @article{jiang2020single,
