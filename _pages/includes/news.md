@@ -1,4 +1,4 @@
-# ![04E3CE28](https://user-images.githubusercontent.com/23012102/161748376-8016ef5c-61a5-4e74-bc8e-344461dc491d.png) News
+# 🛎️  News
 
 - **Mar. 07, 2022** - We have submitted our manuscript to [MICCAI 2022](https://conferences.miccai.org/2022/en/)! ⛏️
 
