@@ -21,9 +21,9 @@
 
 
 
-# 🍞 Datasets
+# 🍞 Ref.
 
-- [![](https://img.shields.io/badge/Dataset-PSRGAN-red.svg)](https://doi.org/10.6084/m9.figshare.13359632.v2), [![](https://img.shields.io/badge/Slide-PSRGAN-red.svg)](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf), [<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN)
+- [![](https://img.shields.io/badge/Dataset-PSRGAN-red.svg)](https://doi.org/10.6084/m9.figshare.13359632.v2)-[![](https://img.shields.io/badge/Slide-PSRGAN-red.svg)](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf)-[<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN)
 
     
     ```latex
@@ -42,7 +42,7 @@
     
   
  ---    
-- [![](https://img.shields.io/badge/Dataset-HetSRWGAN-61649f.svg)](https://doi.org/10.6084/m9.figshare.9862184.v3), [![](https://img.shields.io/badge/Slide-HetSRWGAN-61649f.svg)](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf)
+- [![](https://img.shields.io/badge/Dataset-HetSRWGAN-61649f.svg)](https://doi.org/10.6084/m9.figshare.9862184.v3)-[![](https://img.shields.io/badge/Slide-HetSRWGAN-61649f.svg)](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf)
     
     ```latex
     @inproceedings{huang2021infrared,
