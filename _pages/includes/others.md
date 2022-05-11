@@ -23,7 +23,7 @@
 
 # 🍞 Ref.
 
-- [![](https://img.shields.io/badge/Dataset-PSRGAN-red.svg)](https://doi.org/10.6084/m9.figshare.13359632.v2)-[![](https://img.shields.io/badge/Slide-PSRGAN-red.svg)](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf)-[<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN)
+- [![](https://img.shields.io/badge/Dataset-PSRGAN-red.svg)](https://doi.org/10.6084/m9.figshare.13359632.v2)-[![](https://img.shields.io/badge/Models-PSRGAN-red.svg)](https://figshare.com/articles/dataset/Pre-trained_models/16591973)-[![](https://img.shields.io/badge/Slide-PSRGAN-red.svg)](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf)-[<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN)
 
     
     ```latex
