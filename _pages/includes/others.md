@@ -8,8 +8,9 @@
 # 📍 Services and Teaching Assistants
 - [**OSA**](https://www.optica.org/en-us/home/) Member (**Optical Society of America)**
 - Journal Reviewer
-    -  ![](https://img.shields.io/badge/Publisher-Elsevier-success.svg?style=social) - **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)**
-    - ![](https://img.shields.io/badge/Publisher-OSA-success.svg?style=social) - **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)**
+    -  **[Scientific Reports](https://www.nature.com/srep/)** - ![](https://img.shields.io/badge/Nature--lightgrey?logo=nature&amp;style=social) 
+    -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** - ![](https://img.shields.io/badge/Elsevier--lightgrey?logo=elsevier&amp;style=social)
+    - **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)** - ![](https://img.shields.io/badge/OSA--lightgrey?logo=osapublishing&amp;style=social)
 
 - Lecture: ***Computer Network*** (Spring Term, 2020)
 
