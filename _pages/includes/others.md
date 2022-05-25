@@ -2,8 +2,8 @@
 
 
 # 📃 Patent and China Software-copyright
-1. Image Segmentation Method Based on Generalized Entropy Combined with an Improved Lion Group Algorithm. **(Pending & Public No: CN109712160A)**
-2. Image Dataset Toolbox. **(Software-copyright,** **No: 2019SR0392414)**
+1. [Image Segmentation Method Based on Generalized Entropy Combined with an Improved Lion Group Algorithm.](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109712160A&uniplatform=NZKPT&v=F7gd4ZYKmI-VgT6bQLCMg7O97PoVkDGfTcwYrauQf16n3rL8s_pHzzb9WO5ZSX9V) **(Patent, Pending & Public No: CN109712160A)**
+2. [Image Dataset Toolbox.](https://register.ccopyright.com.cn/query.html) **(Software-copyright,** **No: 2019SR0392414)**
 
 # 📍 Services and Teaching Assistants
 - [**OSA**](https://www.optica.org/en-us/home/) Member (**Optical Society of America)**
