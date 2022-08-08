@@ -1,7 +1,7 @@
 
 # 📕 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2022 Workshop</div><img src='images/fig3.R1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 MICCAI 2022 Workshop</div><img src='images/fig3.R1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [Rethinking Degradation: Radiograph Super-Resolution via AID-SRGAN](https://arxiv.org/abs/2208.03008)\\
