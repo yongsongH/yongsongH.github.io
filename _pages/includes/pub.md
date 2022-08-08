@@ -1,6 +1,18 @@
 
 # 📕 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 MICCAI 2022 Workshop 🌟</div><img src='https://github.com/yongsongH/AIDSRGAN-MICCAI2022/blob/main/testsets/fig3.R1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[Rethinking Degradation: Radiograph Super-Resolution via AID-SRGAN](https://arxiv.org/abs/2208.03008)  
+  
+**Yongsong Huang**, Qingzhong Wang, Shinichiro Omachi | [![](https://img.shields.io/github/stars/yongsongH/AIDSRGAN-MICCAI2022?style=social&label=Code+Stars)](https://github.com/yongsongH/AIDSRGAN-MICCAI2022) | [![](https://img.shields.io/badge/Dataset-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418036.v3) | [![](https://img.shields.io/badge/Models-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418384.v3) 
+  
+</div>
+</div>
+
+---
+
 1. **Yongsong Huang**, Zetao Jiang, Rushi Lan, Shaoqin Zhang, and Kui Pi. "[Infrared Image Super-Resolution via Transfer Learning and PSRGAN.](https://ieeexplore.ieee.org/abstract/document/9424970/)" *IEEE Signal Processing Letters* 28 (2021): 982-986. (JCR Q2, [<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN))[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/infrared-image-super-resolution-via-transfer/infrared-image-super-resolution-on-results-a)](https://paperswithcode.com/sota/infrared-image-super-resolution-on-results-a?p=infrared-image-super-resolution-via-transfer) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/infrared-image-super-resolution-via-transfer/infrared-image-super-resolution-on-results-c)](https://paperswithcode.com/sota/infrared-image-super-resolution-on-results-c?p=infrared-image-super-resolution-via-transfer)
 2. **Yongsong Huang**, Zetao Jiang, Qingzhong Wang, Qi Jiang and Guoming Pang ”[Infrared Image Super-Resolution via Heterogeneous Convolutional Wasserstein GAN.](https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35)” In *Pacific Rim International Conference on Artificial Intelligence (pp. 461-472). Springer, Cham.*(PRICAI 2021, [Oral](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf), [CCF C](https://www.ccf.org.cn/en/), [H5-index: 13](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=PRICAI&btnG=))
 3. Zetao Jiang, **Yongsong Huang**, and Lirui Hu. "[Single image super-resolution: Depthwise separable convolution super-resolution generative adversarial network](https://www.mdpi.com/610058)." *Applied Sciences* 10, no. 1 (2020): 375. (JCR Q2, Corresponding Author)
