@@ -5,14 +5,18 @@
 1. [Image Segmentation Method Based on Generalized Entropy Combined with an Improved Lion Group Algorithm.](https://kns.cnki.net/) **(Patent, Pending & Public No: CN109712160A)**
 2. [Image Dataset Toolbox.](https://register.ccopyright.com.cn/query.html) **(Software-copyright,** **No: 2019SR0392414)**
 
-# 📍 Services and Teaching Assistants
+# 📍 Services 
 - [**OSA**](https://www.optica.org/en-us/home/) Member (**Optical Society of America)**
+- [**MICCAI**](http://www.miccai.org/) Student Member (**The Medical Image Computing and Computer Assisted Intervention Society)**
 - Journal Reviewer
     -  **[Scientific Reports](https://www.nature.com/srep/)** - ![](https://img.shields.io/badge/Nature--lightgrey?logo=nature&amp;style=social) 
     -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** - ![](https://img.shields.io/badge/Elsevier--lightgrey?logo=elsevier&amp;style=social)
+    - **[Optics Express](https://opg.optica.org/oe/home.cfm)** - ![](https://img.shields.io/badge/OSA--lightgrey?logo=osapublishing&amp;style=social)
     - **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)** - ![](https://img.shields.io/badge/OSA--lightgrey?logo=osapublishing&amp;style=social)
 
-- Lecture: ***Computer Network*** (Spring Term, 2020)
+# 💼 TA and RA
+- Lecture: ***Computer Network*** (Spring Term, 2020, **TA**)
+- Graduate School of Engineering, Tohoku University (08/2022 - Now, **RA**)
 
 # 🛫  Events
 
