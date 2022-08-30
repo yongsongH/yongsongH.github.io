@@ -28,56 +28,22 @@
 
 # 🍞 Ref.
 
-- [![](https://img.shields.io/badge/Dataset-PSRGAN-red.svg)](https://doi.org/10.6084/m9.figshare.13359632.v2)-[![](https://img.shields.io/badge/Models-PSRGAN-red.svg)](https://figshare.com/articles/dataset/Pre-trained_models/16591973)-[![](https://img.shields.io/badge/Slide-PSRGAN-red.svg)](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf)-[<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN)
 
+<details>
+<summary markdown="span">Click for More</summary>
+<ul>
     
-    ```latex
-    @ARTICLE{9424970, 
-    author={Huang, Yongsong and Jiang, Zetao and Lan, Rushi and Zhang, 
-    Shaoqin and Pi, Kui}, 
-    journal={IEEE Signal Processing Letters}, 
-    title={Infrared Image Super-Resolution via Transfer Learning 
-    and PSRGAN}, 
-    year={2021}, 
-    volume={28}, 
-    number={}, 
-    pages={982-986}, 
-    doi={10.1109/LSP.2021.3077801}}
-    ```
+</ul>
+
+- [![](https://img.shields.io/badge/Dataset-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418036.v3)-[![](https://img.shields.io/badge/Models-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418384.v3)-[![](https://img.shields.io/badge/Oral-AIDSRGAN-orange.svg)](https://sites.google.com/view/mlmi2022/program-and-registration)-[![](https://img.shields.io/github/stars/yongsongH/AIDSRGAN-MICCAI2022?style=social&label=Stars)](https://github.com/yongsongH/AIDSRGAN-MICCAI2022)  
     
-  
- ---    
-- [![](https://img.shields.io/badge/Dataset-HetSRWGAN-61649f.svg)](https://doi.org/10.6084/m9.figshare.9862184.v3)-[![](https://img.shields.io/badge/Slide-HetSRWGAN-61649f.svg)](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf)
-    
-    ```latex
-    @inproceedings{huang2021infrared,
-      title={Infrared Image Super-Resolution via Heterogeneous Convolutional WGAN},
-      author={Huang, Yongsong and Jiang, Zetao and Wang, Qingzhong and Jiang, Qi 
-    	and Pang, Guoming},
-      booktitle={Pacific Rim International Conference on Artificial Intelligence},
-      pages={461--472},
-      year={2021},
-      organization={Springer}
-    }
-    ```
-    
+- [![](https://img.shields.io/badge/Dataset-PSRGAN-red.svg)](https://doi.org/10.6084/m9.figshare.13359632.v2)-[![](https://img.shields.io/badge/Models-PSRGAN-red.svg)](https://figshare.com/articles/dataset/Pre-trained_models/16591973)-[![](https://img.shields.io/badge/Slide-PSRGAN-red.svg)](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf)-[<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN)
+      
+- [![](https://img.shields.io/badge/Dataset-HetSRWGAN-61649f.svg)](https://doi.org/10.6084/m9.figshare.9862184.v3)-[![](https://img.shields.io/badge/Slide-HetSRWGAN-61649f.svg)](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf)  
    
- ---   
 - [![](https://img.shields.io/badge/Dataset-DSCSRGAN-7a7374.svg)](https://doi.org/10.6084/m9.figshare.9862184.v3)
     
-    ```latex
-    @article{jiang2020single,
-      title={Single image super-resolution: Depthwise separable convolution 
-      super-resolution generative adversarial network},
-      author={Jiang, Zetao and Huang, Yongsong and Hu, Lirui},
-      journal={Applied Sciences},
-      volume={10},
-      number={1},
-      pages={375},
-      year={2020},
-      publisher={Multidisciplinary Digital Publishing Institute}
-    }
-    ```
+    
     
    
     
