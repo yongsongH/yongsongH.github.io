@@ -1,13 +1,13 @@
 
 # 📕 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 MICCAI 2022 Workshop</div><img src='images/fig3.R1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 MICCAI 2022 Workshop (Oral)</div><img src='images/fig3.R1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [Rethinking Degradation: Radiograph Super-Resolution via AID-SRGAN](https://arxiv.org/abs/2208.03008)\\
   **Yongsong Huang**, Qingzhong Wang, Shinichiro Omachi 
   
-[![](https://img.shields.io/github/stars/yongsongH/AIDSRGAN-MICCAI2022?style=social&label=Code+Stars)](https://github.com/yongsongH/AIDSRGAN-MICCAI2022) | [![](https://img.shields.io/badge/Dataset-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418036.v3) | [![](https://img.shields.io/badge/Models-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418384.v3) 
+[![](https://img.shields.io/github/stars/yongsongH/AIDSRGAN-MICCAI2022?style=social&label=Code+Stars)](https://github.com/yongsongH/AIDSRGAN-MICCAI2022) | [![](https://img.shields.io/badge/Dataset-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418036.v3) | [![](https://img.shields.io/badge/Models-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418384.v3) | [![](https://img.shields.io/badge/Oral-AIDSRGAN-orange.svg)](https://sites.google.com/view/mlmi2022/program-and-registration) 
   
 </div>
 </div>
