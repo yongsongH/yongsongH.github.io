@@ -1,4 +1,6 @@
 # 🛎️  News
+
+ <font color=Red>📣 We are looking for research students and exchange students! If you are also focused on our research topics, please feel free to contact me!</font>
 - **Aug. 05, 2022** - I released the [training code of AID-SRGAN](https://github.com/yongsongH/AIDSRGAN-MICCAI2022)! 💎
 
 - **Aug. 01, 2022** - Our paper accepted for publication in the [MICCAI 2022 Workshops!](https://conferences.miccai.org/2022/en/) 🎉 
