@@ -20,6 +20,8 @@
 
 # 🛫  Events
 
+> [**Singapore, The 25th International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI 2022)**](https://conferences.miccai.org/2022/en/) 
+
 > [**Hanoi, Vietnam, The 18th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2021)**](https://www.pricai.org/2021/)                  
 
 > [**Birmingham, UK, The 2nd International Conference on Medical Image and Computer-Aided Diagnosis (MICAD 2021)**](http://www.micad.org/#) 
