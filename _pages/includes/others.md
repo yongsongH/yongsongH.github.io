@@ -9,10 +9,11 @@
 - [**OSA**](https://www.optica.org/en-us/home/) Member (**Optical Society of America)**
 - [**MICCAI**](http://www.miccai.org/) Student Member (**The Medical Image Computing and Computer Assisted Intervention Society)**
 - Journal Reviewer
-    -  **[Scientific Reports](https://www.nature.com/srep/)** - ![](https://img.shields.io/badge/Nature--lightgrey?logo=nature&amp;style=social) 
-    -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** - ![](https://img.shields.io/badge/Elsevier--lightgrey?logo=elsevier&amp;style=social)
-    - **[Optics Express](https://opg.optica.org/oe/home.cfm)** - ![](https://img.shields.io/badge/OSA--lightgrey?logo=osapublishing&amp;style=social)
-    - **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)** - ![](https://img.shields.io/badge/OSA--lightgrey?logo=osapublishing&amp;style=social)
+    -  **[Scientific Reports](https://www.nature.com/srep/)** 
+    -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** 
+    -  **[Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters)** 
+    - **[Optics Express](https://opg.optica.org/oe/home.cfm)** 
+    - **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)** 
 
 # 💼 TA and RA
 - Lecture: ***Computer Network*** (Spring Term, 2020, **TA**)
