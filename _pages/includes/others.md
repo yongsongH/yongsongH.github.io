@@ -12,6 +12,7 @@
     -  **[Scientific Reports](https://www.nature.com/srep/)** 
     -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** 
     -  **[Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters)** 
+    -  **[Multimedia Systems](https://www.springer.com/journal/530)** 
     - **[Optics Express](https://opg.optica.org/oe/home.cfm)** 
     - **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)** 
 
