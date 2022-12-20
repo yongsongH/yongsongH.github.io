@@ -7,13 +7,15 @@
 
 - **Sep. 18, 2022** - We have given an oral presentation at [MICCAI 2022 Workshop](https://sites.google.com/view/mlmi2022/program-and-registration?authuser=0) about [radiograph super-resolution](https://arxiv.org/abs/2208.03008)! 📃
 
-- **Aug. 05, 2022** - I released the [training code of AID-SRGAN](https://github.com/yongsongH/AIDSRGAN-MICCAI2022)! 💎
-
 
 
 <details>
 <summary>Click for More</summary>
 <ul>
+ 
+  <li> 
+ <i><strong>2022.08.05</strong></i>: I released the <a href="https://github.com/yongsongH/AIDSRGAN-MICCAI2022" target=" _blank">AID-SRGAN training code</a>!  💎 
+</li>
  
  <li> 
  <i><strong>2022.08.01</strong></i>: Our paper accepted for publication in the <a href="https://conferences.miccai.org/2022/en/" target=" _blank"> MICCAI 2022 Workshop</a>!  🎉 
