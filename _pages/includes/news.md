@@ -1,4 +1,4 @@
-# 📕 Publication
+# 📕 News
 
 🛎️ News
 
