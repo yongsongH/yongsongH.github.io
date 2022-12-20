@@ -17,8 +17,9 @@
     - **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)** 
 
 # 💼 TA and RA
-- Lecture: ***Computer Network*** (Spring Term, 2020, **TA**)
+- Harvard Medical School, Harvard University (12/2022 - Now, **RA**)
 - Graduate School of Engineering, Tohoku University (08/2022 - Now, **RA**)
+- Lecture: ***Computer Network*** (Spring Term, 2020, **TA**)
 
 # 🛫 Events
 
