@@ -18,7 +18,7 @@
 </li>
  
  <li> 
- <i><strong>2021.11.10</strong></i>: We have given an oral presentation at <a href="https://www.pricai.org/2021/program/program" target=" _blank">PRICAI 2021</a> about <a href="[http://www.baidu.com](https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35)" target=" _blank">infrared images super-resolution </a>! ⚡ 
+ <i><strong>2021.11.10</strong></i>: We have given an oral presentation at <a href="https://www.pricai.org/2021/program/program" target=" _blank">PRICAI 2021</a> about <a href="https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35" target=" _blank">infrared images super-resolution </a>! ⚡ 
 </li>
 
 </ul>
