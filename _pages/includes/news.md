@@ -7,7 +7,19 @@
 
 - **Aug. 05, 2022** - I released the [training code of AID-SRGAN](https://github.com/yongsongH/AIDSRGAN-MICCAI2022)! 💎
 
-- **Aug. 01, 2022** - Our paper accepted for publication in the [MICCAI 2022 Workshop!](https://conferences.miccai.org/2022/en/) 🎉 
 
-- **Nov. 10, 2021** - We have given an oral presentation at [PRICAI 2021](https://www.pricai.org/2021/program/program) about [super-resolution of infrared images](https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35)! ⚡
 
+<details>
+<summary>Click for More</summary>
+<ul>
+ 
+ <li> 
+ <i><strong>2022.08.01</strong></i>: Our paper accepted for publication in the <a href="https://conferences.miccai.org/2022/en/" target=" _blank"> MICCAI 2022 Workshop</a>!  🎉 
+</li>
+ 
+ <li> 
+ <i><strong>2021.11.10</strong></i>: We have given an oral presentation at <a href="https://www.pricai.org/2021/program/program" target=" _blank">PRICAI 2021</a> about <a href="[http://www.baidu.com](https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35)" target=" _blank">infrared images super-resolution </a>! ⚡ 
+</li>
+
+</ul>
+</details>
