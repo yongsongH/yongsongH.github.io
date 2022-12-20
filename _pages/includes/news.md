@@ -1,4 +1,6 @@
-# 🛎️ News
+# 📕 Publication
+
+🛎️ News
 
  <font color=Red>📣 We are looking for research students and exchange students! If you are also focused on our research topics, please feel free to contact me!</font>
 - **Oct. 25, 2022** - One paper is accepted by MedNeurIPS, [NeurIPS 2022 Workshop!](https://sites.google.com/view/med-neurips-2022/home) 🔬
