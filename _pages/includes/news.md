@@ -1,6 +1,8 @@
 # 🛎 News
 
  <font color=Red>📣 We are looking for research students and exchange students! If you are also focused on our research topics, please feel free to contact me!</font>
+- **Jan. 19, 2023** - I will present a poster at the *3rd Intl. Workshop on Educ and Res. for Future Electronics* at [Nagoya University](https://en.nagoya-u.ac.jp/)! ❄️
+ 
 - **Oct. 25, 2022** - One paper is accepted by MedNeurIPS, [NeurIPS 2022 Workshop!](https://sites.google.com/view/med-neurips-2022/home) 🔬
 
 - **Sep. 18, 2022** - We have given an oral presentation at [MICCAI 2022 Workshop](https://sites.google.com/view/mlmi2022/program-and-registration?authuser=0) about [radiograph super-resolution](https://arxiv.org/abs/2208.03008)! 📃
