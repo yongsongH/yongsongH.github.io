@@ -20,7 +20,7 @@
 - Lecture: ***Computer Network*** (Spring Term, 2020, **TA**)
 - Graduate School of Engineering, Tohoku University (08/2022 - Now, **RA**)
 
-# 🛫  Events
+# 🛫 Events
 
 > [**Singapore, The 25th International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI 2022)**](https://conferences.miccai.org/2022/en/) 
 
