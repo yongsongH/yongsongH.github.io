@@ -1,10 +1,11 @@
 # 🛎 News
 
  <font color=Red>📣 We are looking for research students and exchange students! If you are also focused on our research topics, please feel free to contact me!</font>
-- **Dec. 22, 2022** - I has been awarded funding by the [JSPS](https://www.jsps.go.jp/english/) as a *Special Research Fellow* ([日本学術振興会特別研究員 DC2](https://www.jsps.go.jp/english/e-pd/index.html))! 🏆 
 
 - **Jan. 19, 2023** - I will present a poster at the *3rd Intl. Workshop on Educ and Res. for Future Electronics* at [Nagoya University](https://en.nagoya-u.ac.jp/)! ❄️
- 
+
+- **Dec. 22, 2022** - I has been awarded funding by the [JSPS](https://www.jsps.go.jp/english/) as a *Special Research Fellow* ([日本学術振興会特別研究員 DC2](https://www.jsps.go.jp/english/e-pd/index.html))! 🏆 
+
 - **Oct. 25, 2022** - One paper is accepted by MedNeurIPS, [NeurIPS 2022 Workshop!](https://sites.google.com/view/med-neurips-2022/home) 🔬
 
 
