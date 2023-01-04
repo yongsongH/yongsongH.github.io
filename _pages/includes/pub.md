@@ -5,10 +5,10 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IR image super-resolution survey</div><img src='images/fig2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
-[Infrared Image Super-Resolution: Systematic Review, and Future Trends](https://arxiv.org/pdf/2212.12322)\\
-**Yongsong Huang**, Tomo Miyazaki, Xiaofeng Liu, Shinichiro Omachi
+[Infrared Image Super-Resolution: Systematic Review, and Future Trends](https://arxiv.org/pdf/2212.12322)
    
- [![](https://img.shields.io/github/stars/yongsongH/AIDSRGAN-MICCAI2022?style=social&label=Stars)](https://github.com/yongsongH/Infrared_Image_SR_Survey)
+   
+**Yongsong Huang**, Tomo Miyazaki, Xiaofeng Liu, Shinichiro Omachi [![](https://img.shields.io/github/stars/yongsongH/Infrared_Image_SR_Survey?style=social&label=Stars)](https://github.com/yongsongH/Infrared_Image_SR_Survey)
    
 </div>
 </div>
