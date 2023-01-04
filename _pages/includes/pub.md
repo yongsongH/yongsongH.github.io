@@ -2,11 +2,11 @@
 # 📕 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IR image super-resolution survey</div><img src='https://github.com/yongsongH/Infrared_Image_SR_Survey/blob/c52278241f0dbf9ae30651765e5b097d18615125/fig2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IR image super-resolution survey</div><img src='images/fig2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [Infrared Image Super-Resolution: Systematic Review, and Future Trends](https://arxiv.org/pdf/2212.12322)\\
-  **Yongsong Huang**, Tomo Miyazaki, Xiaofeng Liu, Shinichiro Omachi [![](https://img.shields.io/github/stars/yongsongH/AIDSRGAN-MICCAI2022?style=social&label=Code+Stars)](https://github.com/yongsongH/Infrared_Image_SR_Survey)
+**Yongsong Huang**, Tomo Miyazaki, Xiaofeng Liu, Shinichiro Omachi [![](https://img.shields.io/github/stars/yongsongH/AIDSRGAN-MICCAI2022?style=social&label=Stars)](https://github.com/yongsongH/Infrared_Image_SR_Survey)
    
 </div>
 </div>
@@ -17,7 +17,7 @@
 [Rethinking Degradation: Radiograph Super-Resolution via AID-SRGAN](https://arxiv.org/abs/2208.03008)\\
   **Yongsong Huang**, Qingzhong Wang, Shinichiro Omachi 
   
-[![](https://img.shields.io/github/stars/yongsongH/AIDSRGAN-MICCAI2022?style=social&label=Code+Stars)](https://github.com/yongsongH/AIDSRGAN-MICCAI2022) | [![](https://img.shields.io/badge/Dataset-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418036.v3) | [![](https://img.shields.io/badge/Models-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418384.v3) | [![](https://img.shields.io/badge/Oral-AIDSRGAN-orange.svg)](https://sites.google.com/view/mlmi2022/program-and-registration) 
+[![](https://img.shields.io/github/stars/yongsongH/AIDSRGAN-MICCAI2022?style=social&label=Stars)](https://github.com/yongsongH/AIDSRGAN-MICCAI2022) | [![](https://img.shields.io/badge/Dataset-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418036.v3) | [![](https://img.shields.io/badge/Models-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418384.v3) | [![](https://img.shields.io/badge/Oral-AIDSRGAN-orange.svg)](https://sites.google.com/view/mlmi2022/program-and-registration) 
   
 </div>
 </div>
