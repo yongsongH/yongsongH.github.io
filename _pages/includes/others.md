@@ -36,7 +36,7 @@
 
 <!-- site visitors begjin -->
 <div style="margin:5px 0;">
-<a ><img src='//clustrmaps.com/map_v2.png?cl=080808&w=110&t=n&d=VZSmIbj0J6KgisU0jvP5tNLI9tffMW1LiLpPgS_Yie8&co=ffffff&ct=808080'/></a>
+<a ><img src='//clustrmaps.com/map_v2.png?cl=080808&w=150&t=n&d=VZSmIbj0J6KgisU0jvP5tNLI9tffMW1LiLpPgS_Yie8&co=ffffff&ct=808080'/></a>
 </div>
 <!-- site visitors end -->
 
