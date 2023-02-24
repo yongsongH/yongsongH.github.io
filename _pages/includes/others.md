@@ -36,7 +36,7 @@
 
 <!-- site visitors begjin -->
 <div style="margin:5px 0;">
-<a href="https://clustrmaps.com/site/1bt8f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VZSmIbj0J6KgisU0jvP5tNLI9tffMW1LiLpPgS_Yie8&cl=ffffff" /></a>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=n&d=VZSmIbj0J6KgisU0jvP5tNLI9tffMW1LiLpPgS_Yie8&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
 </div>
 <!-- site visitors end -->
 
