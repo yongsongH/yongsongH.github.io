@@ -34,6 +34,11 @@
 > [**Birmingham, UK, The 2nd International Conference on Medical Image and Computer-Aided Diagnosis (MICAD 2021)**](http://www.micad.org/#) 
 
 
+<!-- site visitors begjin -->
+<div style="margin:50px 0;">
+<a href="https://clustrmaps.com/site/1bffo" title="Visit tracker"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VZSmIbj0J6KgisU0jvP5tNLI9tffMW1LiLpPgS_Yie8"></script></a>
+</div>
+<!-- site visitors end -->
 
 <!-- # 🍞 Ref. -->
 
@@ -50,7 +55,7 @@
  -->
 
 
-    
+ 
     
     
    
