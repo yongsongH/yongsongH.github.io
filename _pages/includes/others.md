@@ -9,7 +9,8 @@
 - [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member (**Optical Society of America)**
 - [**MICCAI**](http://www.miccai.org/) Student Member (**The Medical Image Computing and Computer Assisted Intervention Society)**
 - Conference Reviewer
-    - **[MICCAI 2023](https://conferences.miccai.org/2023/en/)** 
+    - **[NeurIPS 2023](https://nips.cc/)**  
+    - **[MICCAI  2023](https://conferences.miccai.org/2023/en/)** 
 - Journal Reviewer (Selected)
     -  **[Scientific Reports](https://www.nature.com/srep/)** 
     -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** 
@@ -25,6 +26,8 @@
 - Lecture: ***Computer Network*** (Spring Term, 2020, **TA**)
 
 # 🛫 Events
+
+> [**Sendai, JP, The 4th International Symposium on AI and Electronics**](https://www.aie.tohoku.ac.jp/event/event_20230213.html)
 
 > [**Nagoya, JP, 3rd Intl. Workshop on Educ and Res. for Future Electronics**](https://www.dii.engg.nagoya-u.ac.jp/archives/002/202101/84b970529823cff5c497969e165ac943.pdf)
 
