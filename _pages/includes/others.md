@@ -2,7 +2,7 @@
 
 
 # 📃 Patent and China Software-copyright
-1. [Image Segmentation Method Based on Generalized Entropy Combined with an Improved Lion Group Algorithm.](https://kns.cnki.net/) **(Patent, Pending & Public No: CN109712160A)**
+1. [Img Thresh Seg Method: Gen. Entropy & Imp. Lion Pop. Alg.](https://kns.cnki.net/) **(Patent, No: 201811596721.8)**
 2. [Image Dataset Toolbox.](https://register.ccopyright.com.cn/query.html) **(Software-copyright,** **No: 2019SR0392414)**
 
 # 📍 Services 
