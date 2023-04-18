@@ -1,5 +1,7 @@
 # 🛎 News
 
+- **Apr. 2023** - Our patent has been granted authorization after successfully passing the defense!
+
 - **Feb. 2023** - One paper is accepted by [IPMI 2023 (Oral)](https://www.ipmi2023.org/en/)! 
 
 - **Jan. 2023** - I will present a poster at the *3rd Intl. Workshop on Educ and Res. for Future Electronics* at [Nagoya University](https://en.nagoya-u.ac.jp/)! 
