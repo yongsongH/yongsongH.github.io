@@ -15,6 +15,7 @@
     -  **[Scientific Reports](https://www.nature.com/srep/)** 
     -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** 
     -  **[Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters)** 
+    -  **[Neural Processing Letters](https://www.springer.com/journal/11063)** 
     -  **[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing)** 
     -  **[Multimedia Systems](https://www.springer.com/journal/530)** 
     - **[Optics Express](https://opg.optica.org/oe/home.cfm)** 
