@@ -22,8 +22,8 @@
     - **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)** 
 
 # 📑 Academic Visiting Experience
-- Harvard Medical School, Harvard University (05/2023 - Now, Visiting Researcher, **MA, USA**)
-- Massachusetts General Hospital, (05/2023 - Now, Inter. **MA, USA**)
+- [Harvard Medical School, Harvard University](https://gordon.mgh.harvard.edu/gc/careers/) (05/2023 - Now, Visiting Researcher, **MA, USA**)
+- [Massachusetts General Hospital](https://www.massgeneral.org/), (05/2023 - Now, Inter. **MA, USA**)
 
 # 💼 TA and RA
 - Harvard Medical School, Harvard University (12/2022 - Now, **RA**)
