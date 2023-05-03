@@ -21,6 +21,10 @@
     - **[Optics Express](https://opg.optica.org/oe/home.cfm)** 
     - **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)** 
 
+# 📑 Academic Visiting Experience
+- Harvard Medical School, Harvard University (05/2023 - Now, Visiting Researcher, **MA, USA**)
+- Massachusetts General Hospital, (05/2023 - Now, Inter. **MA, USA**)
+
 # 💼 TA and RA
 - Harvard Medical School, Harvard University (12/2022 - Now, **RA**)
 - Graduate School of Engineering, Tohoku University (08/2022 - Now, **RA**)
