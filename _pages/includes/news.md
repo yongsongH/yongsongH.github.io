@@ -1,6 +1,6 @@
 # 🛎 News
 
-- **Apr. 2023** - Our patent has been granted authorization after successfully passing the final defense, 5 years application process!
+- **Apr. 2023** - Our patent has been granted authorization, 5 years application process!
 
 - **Feb. 2023** - One paper is accepted by [IPMI 2023 (Oral)](https://www.ipmi2023.org/en/)! 
 
