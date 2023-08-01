@@ -10,7 +10,8 @@
 - [**MICCAI**](http://www.miccai.org/) Student Member (**The Medical Image Computing and Computer Assisted Intervention Society)**
 - Conference Reviewer
     - **[NeurIPS 2023](https://nips.cc/)**  
-    - **[MICCAI  2023](https://conferences.miccai.org/2023/en/)** 
+    - **[MICCAI  2023](https://conferences.miccai.org/2023/en/)**
+    - **[MLMI workshop at the MICCAI 2023](https://sites.google.com/view/mlmi2023)** 
 - Journal Reviewer (Selected)
     -  **[Scientific Reports](https://www.nature.com/srep/)** 
     -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** 
