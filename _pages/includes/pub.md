@@ -24,11 +24,11 @@
 </div>
 </div>
 
-
+- `IPMI` **Yongsong Huang**, Wanqing Xie, Mingzhen Li, Mingmei Cheng, Jinzhou Wu, Weixiao Wang, Jane You, Xiaofeng Liu. "[Vicinal Feature Statistics Augmentation for Federated 3D Medical Volume Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_28)" *International Conference on Information Processing in Medical Imaging.* pp. 360-371.
 - `CCF C` **Yongsong Huang**, Zetao Jiang, Rushi Lan, Shaoqin Zhang, and Kui Pi. "[Infrared Image Super-Resolution via Transfer Learning and PSRGAN.](https://ieeexplore.ieee.org/abstract/document/9424970/)" *IEEE Signal Processing Letters* 28 (2021): 982-986.  [<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/infrared-image-super-resolution-via-transfer/infrared-image-super-resolution-on-results-a)](https://paperswithcode.com/sota/infrared-image-super-resolution-on-results-a?p=infrared-image-super-resolution-via-transfer)
 - `CCF C (Oral)` **Yongsong Huang**, Zetao Jiang, Qingzhong Wang, Qi Jiang and Guoming Pang ”[Infrared Image Super-Resolution via Heterogeneous Convolutional Wasserstein GAN.](https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35)” In *Pacific Rim International Conference on Artificial Intelligence (pp. 461-472). Springer, Cham.*(PRICAI 2021, [Oral](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf), [H5-index](https://scholar.google.com/citations?hl=en&view_op=search_venues&vq=PRICAI&btnG=))
 - `CCF C` Zetao Jiang, Kui Pi, **Yongsong Huang**, Yi Qian, and Shaoqin Zhang. "[Difference Value Network for Image Super-Resolution.](https://ieeexplore.ieee.org/abstract/document/9430739/)" *IEEE Signal Processing Letters* 28 (2021): 1070-1074. 
-- Zetao Jiang, Qi Jiang, **Yongsong Huang**, Shaoqin Zhang. "[Infrared and Low-light-level Visible Light Enhancement Image Fusion Method Based on Latent Low-rank Representation and Composite Filtering.](http://www.opticsjournal.net/Articles/Abstract/gzxb/49/4/0410001.cshtml)" *Acta Photonica Sinica* 49, no. 4 (2020): 410001. (SCI Q4)
+
 
 <!-- ## 🎙 Speech Synthesis
 
