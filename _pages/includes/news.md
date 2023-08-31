@@ -1,12 +1,12 @@
 # 🛎 News
 
-- **Apr. 2023** - Our patent has been granted authorization, 5 years application process!
+- **2023/08** - ICASSP Submission +1
+- **2023/07** - Book Chapter +1 
+- **2023/04** - Patent +1
+- **2023/02** - One paper is accepted by [IPMI 2023 (Oral)](https://www.ipmi2023.org/en/)! 
+- **2023/01** - I will present a poster at the *3rd Intl. Workshop on Educ and Res. for Future Electronics* at [Nagoya University](https://en.nagoya-u.ac.jp/)! 
 
-- **Feb. 2023** - One paper is accepted by [IPMI 2023 (Oral)](https://www.ipmi2023.org/en/)! 
-
-- **Jan. 2023** - I will present a poster at the *3rd Intl. Workshop on Educ and Res. for Future Electronics* at [Nagoya University](https://en.nagoya-u.ac.jp/)! 
-
-- **Dec. 2022** - I has been awarded funding by the [JSPS](https://www.jsps.go.jp/english/) as a *Special Research Fellow* ([日本学術振興会特別研究員 DC2](https://www.jsps.go.jp/english/e-pd/index.html))! 🏆 
+- **2022/12** - I has been awarded funding by the [JSPS](https://www.jsps.go.jp/english/) as a *Special Research Fellow* ([日本学術振興会特別研究員 DC2](https://www.jsps.go.jp/english/e-pd/index.html))! 🏆 
 
 
 
