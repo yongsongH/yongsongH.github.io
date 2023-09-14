@@ -33,15 +33,17 @@
 
 # 🛫 Events
 
+> [**Paris, France, ICCV 2023**](https://iccv2023.thecvf.com/)
+
 > [**Sendai, JP, The 4th International Symposium on AI and Electronics**](https://www.aie.tohoku.ac.jp/event/event_20230213.html)
 
 > [**Nagoya, JP, 3rd Intl. Workshop on Educ and Res. for Future Electronics**](https://www.dii.engg.nagoya-u.ac.jp/archives/002/202101/84b970529823cff5c497969e165ac943.pdf)
 
-> [**Singapore, The 25th International Conference on Medical Image Computing and Computer Assisted Intervention, (MICCAI 2022)**](https://conferences.miccai.org/2022/en/) 
+> [**Singapore, MICCAI 2022**](https://conferences.miccai.org/2022/en/) 
 
-> [**Hanoi, Vietnam, The 18th Pacific Rim International Conference on Artificial Intelligence (PRICAI 2021)**](https://www.pricai.org/2021/)                  
+> [**Hanoi, Vietnam, PRICAI 2021**](https://www.pricai.org/2021/)                  
 
-> [**Birmingham, UK, The 2nd International Conference on Medical Image and Computer-Aided Diagnosis (MICAD 2021)**](http://www.micad.org/#) 
+> [**Birmingham, UK, MICAD 2021**](http://www.micad.org/#) 
 
 
 <!-- site visitors begjin -->
