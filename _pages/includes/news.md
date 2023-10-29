@@ -1,10 +1,11 @@
 # 🛎 News
 
-- **2023/08** - [ICASSP](https://2024.ieeeicassp.org/) Submission +1
-- **2023/07** - [Book Chapter](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4FcW7SQAAAAJ&citation_for_view=4FcW7SQAAAAJ:_FxGoFyzp5QC) +1 
-- **2023/04** - [Patent](https://kns.cnki.net/) +1
-- **2023/02** - [IPMI 2023 (Oral)](https://www.ipmi2023.org/en/) +1
-- **2023/01** - Post at the *3rd Intl. Workshop on Educ and Res. for Future Electronics* ([Nagoya University](https://en.nagoya-u.ac.jp/)).
+- **2023/10** - [AIM](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine) IF 7.5 **+1**
+- **2023/08** - [ICASSP](https://2024.ieeeicassp.org/) Submission **+1**
+- **2023/07** - [Book Chapter](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=4FcW7SQAAAAJ&citation_for_view=4FcW7SQAAAAJ:_FxGoFyzp5QC) **+1** 
+- **2023/04** - [Patent](https://kns.cnki.net/) **+1**
+- **2023/02** - [IPMI 2023 (Oral)](https://www.ipmi2023.org/en/) **+1**
+- **2023/01** - Invited Talk: *3rd Intl. Workshop on Educ and Res. for Future Electronics* ([Nagoya University](https://en.nagoya-u.ac.jp/)).
 
 - **2022/12** - Honored to be a [JSPS](https://www.jsps.go.jp/english/) Research Fellow ([日本学術振興会特別研究員 DC2](https://www.jsps.go.jp/english/e-pd/index.html)).  
 
