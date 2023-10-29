@@ -7,13 +7,15 @@
 - **2023/02** - [IPMI 2023 (Oral)](https://www.ipmi2023.org/en/) **+1**
 - **2023/01** - Invited Talk: *3rd Intl. Workshop on Educ and Res. for Future Electronics* ([Nagoya University](https://en.nagoya-u.ac.jp/)).
 
-- **2022/12** - Honored to be a [JSPS](https://www.jsps.go.jp/english/) Research Fellow ([日本学術振興会特別研究員 DC2](https://www.jsps.go.jp/english/e-pd/index.html)).  
-
 
 
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+ <i><strong>2022.12</strong></i>: Honored to be a  <a href="https://www.jsps.go.jp/english/e-pd/index.html" target=" _blank">JSPS  Research Fellow.</a> [日本学術振興会特別研究員 DC2]
+</li>
  
 <li> 
  <i><strong>2022.10</strong></i>: One paper is accepted by MedNeurIPS,  <a href="https://sites.google.com/view/med-neurips-2022/home" target=" _blank">NeurIPS 2022 Workshop!</a> 
