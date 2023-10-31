@@ -23,8 +23,9 @@
     - **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)** 
 
 # 📑 Academic Experience
-- [Harvard Medical School, Harvard University](https://gordon.mgh.harvard.edu/gc/) (05/2023 - Now, Visiting Researcher, **MA, USA**)
-- [Massachusetts General Hospital](https://www.massgeneral.org/), (05/2023 - Now, Inter. **MA, USA**)
+- [Graduate Institute of Networking and Multimedia, National Taiwan University](https://www.csie.ntu.edu.tw/~acpang/fgcn/index.html) (01/2024 - 03/2024, Visiting Researcher, **Taipei, Pending**)
+- [Harvard Medical School, Harvard University](https://gordon.mgh.harvard.edu/gc/) (05/2023 - 10/2023, Visiting Researcher, **MA, USA**)
+- [Massachusetts General Hospital](https://www.massgeneral.org/), (05/2023 - 10/2023, Inter. **MA, USA**)
 
 # 💼 TA and RA
 - Harvard Medical School, Harvard University (12/2022 - Now, **RA**)
