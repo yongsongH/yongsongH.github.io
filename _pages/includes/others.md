@@ -6,8 +6,8 @@
 2. [Image Dataset Toolbox.](https://register.ccopyright.com.cn/query.html) **(Software-copyright,** **No: 2019SR0392414)**
 
 # 📍 Services 
-- [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member (**Optical Society of America)**
-- [**MICCAI**](http://www.miccai.org/) Student Member (**The Medical Image Computing and Computer Assisted Intervention Society)**
+- [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member 
+- [**MICCAI**](http://www.miccai.org/) Student Member 
 - Conference Reviewer
     - **[NeurIPS 2023](https://nips.cc/)**  
     - **[MICCAI  2023](https://conferences.miccai.org/2023/en/)**
