@@ -11,7 +11,7 @@
 - Conference Reviewer
     - **[NeurIPS 2023](https://nips.cc/)**  
     - **[MICCAI  2023](https://conferences.miccai.org/2023/en/)**
-    - **[MLMI workshop @ MICCAI 2023](https://sites.google.com/view/mlmi2023)** 
+    - **[MLMI Workshop @ MICCAI 2023](https://sites.google.com/view/mlmi2023)** 
 - Journal Reviewer (Selected)
     -  **[Scientific Reports](https://www.nature.com/srep/)** 
     -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** 
