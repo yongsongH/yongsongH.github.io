@@ -1,6 +1,6 @@
 # 🛎 News
 
-- **2024/03** - Invited Talk: *[Tohoku University](https://www.tohoku.ac.jp/en/) - [National Taiwan University](https://en.nagoya-u.ac.jp/) 7th Symposium*.
+- **2024/03** - Invited Talk: *[Tohoku University](https://www.tohoku.ac.jp/en/) - [National Taiwan University](https://www.ntu.edu.tw/english/) 7th Symposium*.
 - **2023/10** - [AIM](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine) IF 7.5 **+1**
 - **2023/07** - [Book Chapter](https://arxiv.org/abs/2312.00689) **+1** 
 - **2023/04** - [Patent Grant](https://kns.cnki.net/) **+1**
