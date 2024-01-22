@@ -9,9 +9,9 @@
 - [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member 
 - [**MICCAI**](http://www.miccai.org/) Student Member 
 - Conference Reviewer
-    - **[NeurIPS 2023](https://nips.cc/)**  
-    - **[MICCAI  2023](https://conferences.miccai.org/2023/en/)**
-    - **[MLMI Workshop @ MICCAI 2023](https://sites.google.com/view/mlmi2023)** 
+    - **[NeurIPS 23](https://nips.cc/)**  
+    - **[MICCAI  23/24](https://conferences.miccai.org/2023/en/)**
+    - **[MLMI Workshop @ MICCAI 23](https://sites.google.com/view/mlmi2023)** 
 - Journal Reviewer (Selected)
     -  **[Scientific Reports](https://www.nature.com/srep/)** 
     -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** 
