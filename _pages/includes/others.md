@@ -9,9 +9,9 @@
 - [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member 
 - [**MICCAI**](http://www.miccai.org/) Student Member 
 - Conference Reviewer
-    - **[NeurIPS 23](https://nips.cc/)**  
-    - **MICCAI**  [23](https://conferences.miccai.org/2023/en/)/[24](https://conferences.miccai.org/2024/en/)
-    - **[MLMI Workshop @ MICCAI 23](https://sites.google.com/view/mlmi2023)** 
+    - **NeurIPS** [23](https://nips.cc/)  
+    - **MICCAI**  [23](https://conferences.miccai.org/2023/en/) | [24](https://conferences.miccai.org/2024/en/)
+    - **MLMI Workshop** @ [MICCAI 23](https://sites.google.com/view/mlmi2023)
 - Journal Reviewer (Selected)
     -  **[Scientific Reports](https://www.nature.com/srep/)** 
     -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** 
@@ -38,34 +38,32 @@
 
 > [**Sendai, JP, The 4th International Symposium on AI and Electronics**](https://www.aie.tohoku.ac.jp/event/event_20230213.html)
 
-> [**Nagoya, JP, 3rd Intl. Workshop on Educ and Res. for Future Electronics**](https://www.dii.engg.nagoya-u.ac.jp/archives/002/202101/84b970529823cff5c497969e165ac943.pdf)
-
-> [**Singapore, MICCAI 2022**](https://conferences.miccai.org/2022/en/) 
-
-> [**Hanoi, Vietnam, PRICAI 2021**](https://www.pricai.org/2021/)                  
-
-> [**Birmingham, UK, MICAD 2021**](http://www.micad.org/#) 
 
 
-<!-- site visitors begjin -->
-<div style="margin:5px 0;">
-<a ><img src='//clustrmaps.com/map_v2.png?cl=080808&w=150&t=n&d=VZSmIbj0J6KgisU0jvP5tNLI9tffMW1LiLpPgS_Yie8&co=ffffff&ct=808080'/></a>
-</div>
-<!-- site visitors end -->
+<details>
+<summary>Click for More</summary>
+<ul>
 
-<!-- # 🍞 Ref. -->
 
-<!-- - [[AIDSRGAN-Models](https://doi.org/10.6084/m9.figshare.20418384.v3)] -->
+<li> 
+<a href="https://www.dii.engg.nagoya-u.ac.jp/archives/002/202101/84b970529823cff5c497969e165ac943.pdf" target=" _blank"> 3rd Intl. Workshop on Educ and Res. for Future Electronics </a> Nagoya, JP
+</li>
 
-<!-- - [![](https://img.shields.io/badge/Dataset-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418036.v3)-[![](https://img.shields.io/badge/Models-AIDSRGAN-orange.svg)](https://doi.org/10.6084/m9.figshare.20418384.v3)-[![](https://img.shields.io/badge/Oral-AIDSRGAN-orange.svg)](https://sites.google.com/view/mlmi2022/program-and-registration)-[![](https://img.shields.io/github/stars/yongsongH/AIDSRGAN-MICCAI2022?style=social&label=Stars)](https://github.com/yongsongH/AIDSRGAN-MICCAI2022)  
-    
-- [![](https://img.shields.io/badge/Dataset-PSRGAN-red.svg)](https://doi.org/10.6084/m9.figshare.13359632.v2)-[![](https://img.shields.io/badge/Models-PSRGAN-red.svg)](https://figshare.com/articles/dataset/Pre-trained_models/16591973)-[![](https://img.shields.io/badge/Slide-PSRGAN-red.svg)](https://github.com/yongsongH/academic_poster/blob/main/PSRGAN_Presentations.pdf)-[<img src="https://img.shields.io/github/stars/yongsongH/Infrared-Image_PSRGAN?style=social" alt="">](https://github.com/yongsongH/Infrared-Image_PSRGAN)
-      
-- [![](https://img.shields.io/badge/Dataset-HetSRWGAN-61649f.svg)](https://doi.org/10.6084/m9.figshare.9862184.v3)-[![](https://img.shields.io/badge/Slide-HetSRWGAN-61649f.svg)](https://github.com/yongsongH/academic_poster/blob/main/PRICAI_Oral_1110.pdf)  
-   
-- [![](https://img.shields.io/badge/Dataset-DSCSRGAN-7a7374.svg)](https://doi.org/10.6084/m9.figshare.9862184.v3)
-    
- -->
+<li> 
+<a href="https://conferences.miccai.org/2022/en/" target=" _blank"> MICCAI 2022 </a> Singapore
+</li>
+
+<li> 
+<a href="https://www.pricai.org/2021/" target=" _blank"> PRICAI 2021 </a> Hanoi, Vietnam
+</li>
+
+<li> 
+<a href="http://www.micad.org" target=" _blank"> MICAD 2021</a> Birmingham, UK
+</li>
+
+</ul>
+</details>
+
 
 
  
