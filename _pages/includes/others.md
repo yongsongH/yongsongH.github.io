@@ -10,7 +10,7 @@
 - [**MICCAI**](http://www.miccai.org/) Student Member 
 - Conference Reviewer
     - **NeurIPS** [23](https://nips.cc/)  
-    - **MICCAI**  [23](https://conferences.miccai.org/2023/en/) | [24](https://conferences.miccai.org/2024/en/)
+    - **MICCAI**  [23](https://conferences.miccai.org/2023/en/) / [24](https://conferences.miccai.org/2024/en/)
     - **MLMI Workshop** @ [MICCAI 23](https://sites.google.com/view/mlmi2023)
 - Journal Reviewer (Selected)
     -  **[Scientific Reports](https://www.nature.com/srep/)** 
