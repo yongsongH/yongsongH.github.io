@@ -28,11 +28,13 @@
 - [Massachusetts General Hospital](https://www.massgeneral.org/), (05/2023 - 10/2023, Inter. **MA, USA**)
 
 # 💼 TA and RA
-- Harvard Medical School, Harvard University (12/2022 - Now, **RA**)
+- Harvard Medical School, Harvard University (12/2022 - 03/2024, **RA**)
 - Graduate School of Engineering, Tohoku University (08/2022 - Now, **RA**)
 - Lecture: ***Computer Network*** (Spring Term, 2020, **TA**)
 
 # 🛫 Events
+
+>**Taipei, Tohoku University - National Taiwan University 7th Symposium**
 
 > [**Paris, France, ICCV 2023**](https://iccv2023.thecvf.com/)
 
