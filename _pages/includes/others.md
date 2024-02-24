@@ -68,7 +68,7 @@
 
 
 <div style="margin:50px 0;">
-            <a href="https://clustrmaps.com/site/1bt8f"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=VZSmIbj0J6KgisU0jvP5tNLI9tffMW1LiLpPgS_Yie8&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1bt8f" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=300&t=n&d=VZSmIbj0J6KgisU0jvP5tNLI9tffMW1LiLpPgS_Yie8&co=ffffff&ct=808080" /></a>
 </div>
 
 
