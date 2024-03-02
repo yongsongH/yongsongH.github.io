@@ -34,7 +34,7 @@
 
 # 🛫 Events
 
->[**Taipei, Tohoku University - National Taiwan University 7th Symposium**](https://github.com/yongsongH/yongsongH.github.io/blob/main/images/2024%207th%20NTU-Tohoku%20Symposium.pdf)
+>[**Taipei, Tohoku University - National Taiwan University 7th Symposium**](https://ai.robo.ntu.edu.tw/news_view.php?id=123)
 
 > [**Paris, France, ICCV 2023**](https://iccv2023.thecvf.com/)
 
