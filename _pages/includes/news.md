@@ -2,7 +2,7 @@
 
 - **2024/03** - Invited Talk: *[Tohoku University](https://www.tohoku.ac.jp/en/) - [National Taiwan University](https://www.ntu.edu.tw/english/) 7th Symposium* @ Taipei
 - **2023/10** - [AIM](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine) IF 7.5 **+1**
-- **2023/07** - [Book Chapter](https://arxiv.org/abs/2312.00689) **+1** 
+- **2023/07** - [Book Chapter](https://link.springer.com/chapter/10.1007/978-3-031-46238-2_28) **+1** 
 - **2023/04** - [Patent Grant](https://kns.cnki.net/) **+1**
 - **2023/02** - [IPMI 2023 (Oral)](https://www.ipmi2023.org/en/) **+1**
 
