@@ -37,7 +37,7 @@
 </li>
 
  <li> 
- <i><strong>2022.08</strong></i>: <a href="https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35" target=" _blank"> PRICAI 2021 </a> +1 
+ <i><strong>2021.11</strong></i>: <a href="https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35" target=" _blank"> PRICAI 2021 </a> +1 
 </li>
  
 
