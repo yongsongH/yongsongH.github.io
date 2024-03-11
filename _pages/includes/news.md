@@ -35,10 +35,11 @@
  <li> 
  <i><strong>2022.08</strong></i>: <a href="https://conferences.miccai.org/2022/en/" target=" _blank"> MICCAI 2022 Workshop</a> +1 
 </li>
- 
+
  <li> 
- <i><strong>2021.11</strong></i>:  <a href=""https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35" target=" _blank">PRICAI 2021</a>  +1
+ <i><strong>2022.08</strong></i>: <a href="https://link.springer.com/chapter/10.1007/978-3-030-89363-7_35" target=" _blank"> PRICAI 2021 </a> +1 
 </li>
+ 
 
 </ul>
 </details>
