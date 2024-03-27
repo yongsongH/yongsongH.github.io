@@ -78,50 +78,50 @@
   align-items: center;
 }
 
-// .author__avatar {
-//   display: table-cell;
-//   vertical-align: top;
-//   width: 75px;
-//   // set width only, for non-square avatars
-//   // height: 36px;
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 75px;
+  // set width only, for non-square avatars
+  // height: 36px;
 
-//   @include breakpoint($large) {
-//     display: block;
-//     width: auto;
-//     height: auto;
-//   }
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 175px;
+    min-width: 75px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+
+// .author__avatar {
+//   display: inline-block; // 改为inline-block以便自适应宽度
+//   vertical-align: top;
+//   width: 100%; // 使用百分比以便宽度根据父元素大小变化
+//   max-width: 175px; // 可以设置一个最大宽度
 
 //   img {
-//     max-width: 175px;
-//     min-width: 75px;
-//     border-radius: 50%;
-
-//     @include breakpoint($large) {
-//       padding: 5px;
-//       border: 1px solid $border-color;
-//     }
+//     width: 100%; // 图像宽度填满容器
+//     height: auto; // 高度自动，保持原有宽高比
+//     border-radius: 50%; // 设置为圆形
 //   }
 // }
 
-.author__avatar {
-  display: inline-block; // 改为inline-block以便自适应宽度
-  vertical-align: top;
-  width: 100%; // 使用百分比以便宽度根据父元素大小变化
-  max-width: 175px; // 可以设置一个最大宽度
-
-  img {
-    width: 100%; // 图像宽度填满容器
-    height: auto; // 高度自动，保持原有宽高比
-    border-radius: 50%; // 设置为圆形
-  }
-}
-
-// 对于大屏幕，可以增加一个媒体查询以调整最大宽度
-@include breakpoint($large) {
-  .author__avatar {
-    max-width: 175px; // 或者更大的值，视情况而定
-  }
-}
+// // 对于大屏幕，可以增加一个媒体查询以调整最大宽度
+// @include breakpoint($large) {
+//   .author__avatar {
+//     max-width: 175px; // 或者更大的值，视情况而定
+//   }
+// }
 
 
 
