@@ -106,25 +106,29 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 75px; // You might want to set a fixed height as well to ensure it's a square
+  width: 75px; // Assuming you want a square avatar of 75x75 pixels on small screens
+  height: 75px; // Added this line to ensure the container is also square on small screens
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 175px; // Fixed width for large screens
+    height: 175px; // Fixed height for large screens
   }
 
   img {
-    max-width: 175px; // or another fixed value to ensure it's a square
-    height: 175px; // added to ensure the image is a square; change as necessary
-    border-radius: 0; // changed to 0 to make the avatar a square
+    width: 100%; // This will make the image fill the container
+    height: auto; // Keep as auto to maintain aspect ratio
+    border-radius: 0; // This will make the avatar square
 
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
+      box-sizing: border-box; // This ensures that padding and border are included in width/height
+      height: calc(100% - 10px - 2px); // Adjust height to account for padding and border
     }
   }
 }
+
 
 
 .author__content {
