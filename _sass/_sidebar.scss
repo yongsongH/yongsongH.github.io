@@ -104,30 +104,25 @@
 // }
 
 .author__avatar {
-  display: table-cell;
+  display: inline-block; // 改为inline-block以便自适应宽度
   vertical-align: top;
-  width: 75px; // 维持75px，或者您想要的尺寸
-  height: 75px; // 和width相同以保证是正方形，从而形成圆形
-
-  @include breakpoint($large) {
-    display: block;
-    width: 175px; // 在大屏幕下的宽度
-    height: 175px; // 确保和宽度相同，从而形成圆形
-  }
+  width: 100%; // 使用百分比以便宽度根据父元素大小变化
+  max-width: 175px; // 可以设置一个最大宽度
 
   img {
-    width: 100%; // 使得图片填满整个容器
-    height: auto; // 维持宽高比
-    border-radius: 50%; // 使得图片变为圆形
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-      box-sizing: border-box; // 确保内边距和边框包含在宽高内
-      // 不需要calc()来调整高度，因为盒子模型已经处理了
-    }
+    width: 100%; // 图像宽度填满容器
+    height: auto; // 高度自动，保持原有宽高比
+    border-radius: 50%; // 设置为圆形
   }
 }
+
+// 对于大屏幕，可以增加一个媒体查询以调整最大宽度
+@include breakpoint($large) {
+  .author__avatar {
+    max-width: 175px; // 或者更大的值，视情况而定
+  }
+}
+
 
 
 
