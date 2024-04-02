@@ -31,6 +31,7 @@
 # 💼 TA and RA
 - Harvard Medical School, Harvard University (12/2022 - 03/2024, **RA**)
 - Graduate School of Engineering, Tohoku University (08/2022 - Now, **RA**)
+- Lecture: ***C Programming プログラミング演習A*** (Spring Term, 2024, **TA**)
 - Lecture: ***Computer Network*** (Spring Term, 2020, **TA**)
 
 # 🛫 Events
