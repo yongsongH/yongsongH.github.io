@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2024/05** - [IRSRMamba](https://github.com/yongsongH/IRSRMamba) is available.
 - **2024/05** - [IEEE NSS MIC](https://nssmic.ieee.org/2024/) Submission **+1**
 - **2024/04** - Serve as Research Affiliate @ *[Yale School of Medicine](https://medicine.yale.edu/)* 
 - **2024/04** - [PMB](https://iopscience.iop.org/journal/0031-9155) IF 3.5 **+1**
