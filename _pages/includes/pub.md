@@ -1,7 +1,7 @@
 
 # 📕 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IRSRMamba </div><img src='images/fig2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IRSRMamba </div><img src='images/IRSRMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model](http://arxiv.org/abs/2405.09873)
