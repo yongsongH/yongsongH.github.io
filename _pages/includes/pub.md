@@ -1,13 +1,13 @@
 
 # 📕 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IRSRMamba </div><img src='https://github.com/yongsongH/IRSRMamba/blob/96b098ab8d8f45c25e6a1ae28a00fc7893bc3348/experiments/pretrained_models/IRSRMamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IRSRMamba </div><img src='images/fig2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model](http://arxiv.org/abs/2405.09873)
    
    
-**Yongsong Huang**, Tomo Miyazaki, Xiaofeng Liu, Shinichiro Omachi [![](https://img.shields.io/github/stars/yongsongH//IRSRMamba?style=social&label=Stars)](https://github.com/yongsongH/IRSRMamba/)
+**Yongsong Huang**, Tomo Miyazaki, Xiaofeng Liu, Shinichiro Omachi [![](https://img.shields.io/github/stars/yongsongH/IRSRMamba?style=social&label=Stars)](https://github.com/yongsongH/IRSRMamba)
    
 </div>
 </div>
