@@ -40,7 +40,7 @@
 </li>
  
 <li> 
- <i><strong>2022.08</strong></i>: I released the <a href="https://github.com/yongsongH/AIDSRGAN-MICCAI2022" target=" _blank">AID-SRGAN training code</a>! 
+ <i><strong>2022.08</strong></i>: <a href="https://github.com/yongsongH/AIDSRGAN-MICCAI2022" target=" _blank">AID-SRGAN</a> is available. 
 </li>
  
  <li> 
