@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2024/05** - [MIRU2024](https://miru-committee.github.io/miru2024/en/)  **+1**
 - **2024/05** - [IRSRMamba](https://github.com/yongsongH/IRSRMamba) is available.
 - **2024/05** - [IEEE NSS MIC](https://nssmic.ieee.org/2024/) Submission **+1**
 - **2024/04** - Serve as Research Affiliate @ *[Yale School of Medicine](https://medicine.yale.edu/)* 
@@ -7,13 +8,16 @@
 - **2024/03** - Invited Talk: *[Tohoku University](https://www.tohoku.ac.jp/en/) - [National Taiwan University](https://www.ntu.edu.tw/english/) 7th Symposium* @ Taipei
 - **2023/10** - [AIM](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine) IF 7.5 **+1**
 - **2023/07** - [Book Chapter](https://link.springer.com/chapter/10.1007/978-3-031-46238-2_28) **+1** 
-- **2023/05** - [Patent Grant](http://epub.cnipa.gov.cn/cred/CN109712160B) **+1**
 
 
 
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+ <i><strong>2023.05</strong></i>: <a href="http://epub.cnipa.gov.cn/cred/CN109712160B" target=" _blank">Patent Grant </a> <i><strong>+1</strong></i>
+</li>
 
 <li> 
  <i><strong>2023.02</strong></i>: <a href="https://www.ipmi2023.org/en/" target=" _blank">IPMI 2023 (Oral)</a> <i><strong>+1</strong></i>
