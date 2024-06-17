@@ -6,7 +6,9 @@
 2. [Image Dataset Toolbox.](https://register.ccopyright.com.cn/query.html) **(Software-copyright,** **No: 2019SR0392414)**
 
 # 📍 Services 
-- [**IEEE**](https://drive.google.com/file/d/1a1tIx17jY2ED-FUjKDvM8P34Gmyj53dq/view?usp=drive_link) Student Member ｜ [**MICCAI**](http://www.miccai.org/) Student Member ｜ [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member 
+- [**IEEE**](https://drive.google.com/file/d/1a1tIx17jY2ED-FUjKDvM8P34Gmyj53dq/view?usp=drive_link) Student Member
+- [**MICCAI**](http://www.miccai.org/) Student Member
+- [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member 
 - Conference Reviewer
     - **NeurIPS** [23](https://nips.cc/)  
     - **MICCAI**  [23](https://conferences.miccai.org/2023/en/) / [24](https://conferences.miccai.org/2024/en/)
