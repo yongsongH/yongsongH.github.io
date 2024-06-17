@@ -12,7 +12,7 @@
 - Conference Reviewer
     - **NeurIPS** [23](https://nips.cc/)  
     - **MICCAI**  [23](https://conferences.miccai.org/2023/en/) / [24](https://conferences.miccai.org/2024/en/)
-    - **MLMI Workshop** @ [MICCAI 23](https://sites.google.com/view/mlmi2023)
+    - **MLMI Workshop** @ [MICCAI 23](https://sites.google.com/view/mlmi2023) / [24](https://sites.google.com/view/mlmi2024)
 - Journal Reviewer (Selected)
     -  **[IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)** 
     -  **[Scientific Reports](https://www.nature.com/srep/)** 
