@@ -38,6 +38,8 @@
 
 # 🛫 Events
 
+>[**Kumamoto, JP, 27th Meeting on Image Recognition and Understanding**](https://miru-committee.github.io/miru2024/en/)
+
 >[**Taipei, Tohoku University - National Taiwan University 7th Symposium**](https://ai.robo.ntu.edu.tw/news_view.php?id=123)
 
 > [**Paris, France, ICCV 2023**](https://iccv2023.thecvf.com/)
