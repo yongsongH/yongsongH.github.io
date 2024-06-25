@@ -7,13 +7,17 @@
 - **2024/04** - [PMB](https://iopscience.iop.org/journal/0031-9155) IF 3.5 **+1**
 - **2024/03** - Invited Talk: *[Tohoku University](https://www.tohoku.ac.jp/en/) - [National Taiwan University](https://www.ntu.edu.tw/english/) 7th Symposium* @ Taipei
 - **2023/10** - [AIM](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine) IF 7.5 **+1**
-- **2023/07** - [Book Chapter](https://link.springer.com/chapter/10.1007/978-3-031-46238-2_28) **+1** 
 
 
 
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+ <i><strong>2023.07</strong></i>: <a href="https://link.springer.com/chapter/10.1007/978-3-031-46238-2_28" target=" _blank">Book Chapter </a> <i><strong>+1</strong></i>
+</li>
+
 
 <li> 
  <i><strong>2023.05</strong></i>: <a href="http://epub.cnipa.gov.cn/cred/CN109712160B" target=" _blank">Patent Grant </a> <i><strong>+1</strong></i>
