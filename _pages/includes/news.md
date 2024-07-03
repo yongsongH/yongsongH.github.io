@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2024/07** - [Awarded 2024 JSPS Special Research Grant Allowance](https://www.jsps.go.jp/j-pd/pd_oubo.html).
 - **2024/05** - [MIRU2024](https://miru-committee.github.io/miru2024/en/)  **+1**
 - **2024/05** - [IRSRMamba](https://github.com/yongsongH/IRSRMamba) is available.
 - **2024/05** - [IEEE NSS MIC](https://nssmic.ieee.org/2024/) Submission **+1**
