@@ -5,7 +5,7 @@
 1. [Method for realizing image threshold segmentation based on generalized entropy combined improved lion group algorithm](https://patents.google.com/patent/CN109712160B/en) **(Patent, No: 201811596721.8)**
 2. [Image Dataset Toolbox.](https://register.ccopyright.com.cn/query.html) **(Software-copyright,** **No: 2019SR0392414)**
 
-# 📍 Services 
+# Services 
 - [**IEEE**](https://drive.google.com/file/d/1a1tIx17jY2ED-FUjKDvM8P34Gmyj53dq/view?usp=drive_link) Student Member
 - [**MICCAI**](http://www.miccai.org/) Student Member
 - [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member 
@@ -25,19 +25,19 @@
     -  **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)**
     -  **[Scientific Reports](https://www.nature.com/srep/)** 
 
-# 📑 Academic Experience
+# Academic Experience
 - [National Taiwan University](https://www.csie.ntu.edu.tw/~acpang/fgcn/index.html) (01/2024 - 03/2024, Visiting Researcher, **Taipei**)
 - [Harvard Medical School, Harvard University](https://gordon.mgh.harvard.edu/gc/) (05/2023 - 10/2023, Visiting Researcher, **MA, USA**)
 - [Massachusetts General Hospital](https://www.massgeneral.org/), (05/2023 - 10/2023, Inter. **MA, USA**)
 
-# 💼 TA and RA
+# TA and RA
 - Yale School of Medicine, Yale University (04/2024 - Now, **RA**)
 - Graduate School of Engineering, Tohoku University (08/2022 - Now, **RA**)
 - Harvard Medical School, Harvard University (12/2022 - 03/2024, **RA**)
 - Lecture: ***C Programming プログラミング演習A*** (Spring Term, 2024, **TA**)
 - Lecture: ***Computer Network*** (Spring Term, 2020, **TA**)
 
-# 🛫 Events
+# Events
 
 >[**Kumamoto, JP, 27th Meeting on Image Recognition and Understanding**](https://miru-committee.github.io/miru2024/en/)
 
