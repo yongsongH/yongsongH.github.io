@@ -1,7 +1,7 @@
 
 
 
-# 📃 Patent and China Software-copyright
+# Patent and China Software-copyright
 1. [Method for realizing image threshold segmentation based on generalized entropy combined improved lion group algorithm](https://patents.google.com/patent/CN109712160B/en) **(Patent, No: 201811596721.8)**
 2. [Image Dataset Toolbox.](https://register.ccopyright.com.cn/query.html) **(Software-copyright,** **No: 2019SR0392414)**
 
