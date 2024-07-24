@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# Honors and Awards
 - *Jul. 2024* - JSPS Special Research Grant Allowance, (**日本学術振興会**)[日本学術振興会特別研究員奨励費](https://www.jsps.go.jp/j-pd/pd_oubo.html)
 
 - *Dec. 2022* - Research Fellowships for Young Scientists, (**日本学術振興会**)[日本学術振興会特別研究員 DC2](https://www.jsps.go.jp/english/) [**Top Honor**]
