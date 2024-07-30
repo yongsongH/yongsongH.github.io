@@ -4,7 +4,7 @@
 - **2024/07** - Awarded the [2024 JSPS Special Research Grant Allowance](https://www.jsps.go.jp/j-pd/pd_oubo.html).
 - **2024/05** - [MIRU2024](https://miru-committee.github.io/miru2024/en/)  **+1**
 - **2024/05** - [IRSRMamba](https://github.com/yongsongH/IRSRMamba) is available.
-- **2024/04** - Serve as Research Affiliate @ *[Yale School of Medicine](https://medicine.yale.edu/lab/x-liu/people/)* 
+- **2024/04** - Serve as Research Affiliate @ *[Yale School of Medicine](https://medicine.yale.edu/lab/x-liu/org-profile/yongsong-huang/122931/)* 
 - **2024/04** - [PMB](https://iopscience.iop.org/journal/0031-9155) IF 3.5 **+1**
 - **2024/03** - Invited Talk: *[Tohoku University](https://www.tohoku.ac.jp/en/) - [National Taiwan University](https://www.ntu.edu.tw/english/) 7th Symposium* @ Taipei
 - **2023/10** - [AIM](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine) IF 6.1 **+1**
