@@ -39,13 +39,14 @@
 
 # Events
 
->[**Kumamoto, JP, 27th Meeting on Image Recognition and Understanding**](https://miru-committee.github.io/miru2024/en/)
+> [**Sendai, JP, The 6th International Symposium on AI and Electronics**](https://www.aie.tohoku.ac.jp/english/event/event_20250129.html)
 
->[**Taipei, Tohoku University - National Taiwan University 7th Symposium**](https://ai.robo.ntu.edu.tw/news_view.php?id=123)
+> [**Kumamoto, JP, 27th Meeting on Image Recognition and Understanding**](https://miru-committee.github.io/miru2024/en/)
+
+> [**Taipei, Tohoku University - National Taiwan University 7th Symposium**](https://ai.robo.ntu.edu.tw/news_view.php?id=123)
 
 > [**Paris, France, ICCV 2023**](https://iccv2023.thecvf.com/)
 
-> [**Sendai, JP, The 4th International Symposium on AI and Electronics**](https://www.aie.tohoku.ac.jp/event/event_20230213.html)
 
 
 
@@ -53,6 +54,9 @@
 <summary>Click for More</summary>
 <ul>
 
+<li> 
+<a href="https://www.aie.tohoku.ac.jp/event/event_20230213.html" target=" _blank"> The 4th International Symposium on AI and Electronics </a> Sendai, JP
+</li>
 
 <li> 
 <a href="https://www.dii.engg.nagoya-u.ac.jp/archives/002/202101/84b970529823cff5c497969e165ac943.pdf" target=" _blank"> 3rd Intl. Workshop on Educ and Res. for Future Electronics </a> Nagoya, JP
