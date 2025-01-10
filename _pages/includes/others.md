@@ -78,7 +78,7 @@
 </ul>
 </details>
 
-# Recruiting
+# Join Us
 
 We ([Laboratory for Image Information Communications](http://www.iic.ecei.tohoku.ac.jp/index.html)@Tohoku Dai, led by [Prof. Shinichiro Omachi](http://www.iic.ecei.tohoku.ac.jp/~machi/index-j.html) and [Prof. Tomo Miyazaki](https://tomomiyazaki.github.io/)) are always looking for rotation/capstone students, on-site/remote visitors, and post-docs with enthusiasm for AI in medical image processing, IR imaging, real-world driving image processing, remote sensing image analysis, AI in finance, pattern recognition and analysis. We are mostly AI algorithm-oriented.
   
