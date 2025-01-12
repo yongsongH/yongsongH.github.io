@@ -86,7 +86,7 @@ If you are interested, please email your complete CV to us for consideration. In
 
 
 **Useful Links:**
-- Financial Support: [AIE](https://www.aie.tohoku.ac.jp/) / [JSPS](https://www.jsps.go.jp/j-pd/) / [JST](https://pgd.tohoku.ac.jp/rpc/next_generation.html)/[Boot AI](https://pgd.tohoku.ac.jp/english/rpc/next_generation_AI.html)
+- Financial Support: [AIE](https://www.aie.tohoku.ac.jp/) / [JSPS](https://www.jsps.go.jp/j-pd/) / [JST](https://pgd.tohoku.ac.jp/rpc/next_generation.html) / [Boot AI](https://pgd.tohoku.ac.jp/english/rpc/next_generation_AI.html)
 - Department Homepage: [Graduate School of Engineering](https://www.eng.tohoku.ac.jp/english/) / [Center for So-Go-Chi (Convergence Knowledge) Informatics](https://www.aisogochi.tohoku.ac.jp/) / [RIEC](https://www.riec.tohoku.ac.jp/ja/)
 - Collaborative Teams: Yale University, National Taiwan University, Google, Amazon, and others.
 
