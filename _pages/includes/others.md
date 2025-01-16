@@ -12,7 +12,7 @@
 - Conference Reviewer
     - **IJCAI** [25](https://2025.ijcai.org/) 
     - **NeurIPS** [23](https://nips.cc/)  
-    - **MICCAI**  [23](https://conferences.miccai.org/2023/en/) / [24](https://conferences.miccai.org/2024/en/)
+    - **MICCAI**  [23](https://conferences.miccai.org/2023/en/) / [24](https://conferences.miccai.org/2024/en/) / [25](https://conferences.miccai.org/2025/en/default.asp)
     - **MLMI Workshop** @ [MICCAI 23](https://sites.google.com/view/mlmi2023) / [24](https://sites.google.com/view/mlmi2024)
 - Journal Reviewer (Selected)
     -  **[Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence)**
