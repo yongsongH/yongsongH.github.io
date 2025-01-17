@@ -80,7 +80,7 @@
 
 # Join Us
 
-We ([Laboratory for Image Information Communications](http://www.iic.ecei.tohoku.ac.jp/index.html) @ Tohoku Dai, led by [Prof. Shinichiro Omachi](http://www.iic.ecei.tohoku.ac.jp/~machi/index-j.html) and [Prof. Tomo Miyazaki](https://tomomiyazaki.github.io/)) are always looking for rotation/capstone students, on-site/remote visitors, RA and post-docs with enthusiasm for 
+We ([IIC Lab](http://www.iic.ecei.tohoku.ac.jp/index.html) @ Tohoku Dai, led by [Prof. Shinichiro Omachi](http://www.iic.ecei.tohoku.ac.jp/~machi/index-j.html) and [Prof. Tomo Miyazaki](https://tomomiyazaki.github.io/)) are always looking for rotation/capstone students, on-site/remote visitors, RA and post-docs with enthusiasm for 
 AI in medical imaging, IR imaging, remote sensing, AI finance, and pattern recognition.
 
 If you are interested, please email your complete CV for consideration. Along with your CV, kindly include details such as a list of ***publications, academic achievements or awards, language proficiency***, and a copy of your ***academic transcript***. While we may not respond to every inquiry, all applications will be carefully reviewed, and we will contact you if there is a suitable match for our team. Thank you for your attention!
