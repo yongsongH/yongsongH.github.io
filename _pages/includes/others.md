@@ -80,15 +80,16 @@
 
 # Join Us
 
-We ([Laboratory for Image Information Communications](http://www.iic.ecei.tohoku.ac.jp/index.html)@Tohoku Dai, led by [Prof. Shinichiro Omachi](http://www.iic.ecei.tohoku.ac.jp/~machi/index-j.html) and [Prof. Tomo Miyazaki](https://tomomiyazaki.github.io/)) are always looking for rotation/capstone students, on-site/remote visitors, and post-docs with enthusiasm for AI in medical image processing, IR imaging, real-world driving image processing, remote sensing image analysis, AI in finance, pattern recognition and analysis. We are mostly AI algorithm-oriented.
-  
-If you are interested, please email your complete CV to us for consideration. In addition to your CV, including details such as a list of ***publications, academic achievements or awards, language proficiency***, and a copy of your ***academic transcript*** would be highly appreciated. While we may not be able to respond to every inquiry, we will carefully review your application and reach out as soon as possible if we find a good match for our team. Thank you for your attention!
+We ([Laboratory for Image Information Communications](http://www.iic.ecei.tohoku.ac.jp/index.html) @ Tohoku Dai, led by [Prof. Shinichiro Omachi](http://www.iic.ecei.tohoku.ac.jp/~machi/index-j.html) and [Prof. Tomo Miyazaki](https://tomomiyazaki.github.io/)) are always looking for rotation/capstone students, on-site/remote visitors, and post-docs with enthusiasm for 
+AI in medical imaging, IR imaging, remote sensing, AI finance, and pattern recognition.
+
+If you are interested, please email your complete CV for consideration. Along with your CV, kindly include details such as a list of ***publications, academic achievements or awards, language proficiency***, and a copy of your ***academic transcript***. While we may not respond to every inquiry, all applications will be carefully reviewed, and we will contact you if there is a suitable match for our team. Thank you for your attention!
 
 
 **Useful Links:**
 - Financial Support: [AIE](https://www.aie.tohoku.ac.jp/) / [JSPS](https://www.jsps.go.jp/j-pd/) / [JST](https://pgd.tohoku.ac.jp/rpc/next_generation.html) / [Boot AI](https://pgd.tohoku.ac.jp/english/rpc/next_generation_AI.html)
 - Department Homepage: [Graduate School of Engineering](https://www.eng.tohoku.ac.jp/english/) / [Center for So-Go-Chi (Convergence Knowledge) Informatics](https://www.aisogochi.tohoku.ac.jp/) / [RIEC](https://www.riec.tohoku.ac.jp/ja/)
-- Collaborative Teams: Yale University, National Taiwan University, Google, Amazon, and others.
+- Collaborative Partners: Yale University, NTU, Google, Amazon, and more.
 
 <div style="margin:50px 0;">
 <a href="https://clustrmaps.com/site/1bt8f" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=300&t=n&d=VZSmIbj0J6KgisU0jvP5tNLI9tffMW1LiLpPgS_Yie8&co=ffffff&ct=808080" /></a>
