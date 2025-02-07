@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2025/02** - [PR](https://www.sciencedirect.com/journal/pattern-recognition) **+1**
 - **2025/01** - Serve as PC Member @ *[IJCAI-25](https://2025.ijcai.org/)* 
 - **2025/01** - [IEEE ISBI](https://biomedicalimaging.org/2025/?__hstc=51849206.7110752f15b81450c56dccb2713df518.1735882462803.1735882462803.1735882462803.1&__hssc=51849206.4.1735882462803&__hsfp=570990055) **+1**
 - **2024/07** - [IEEE NSS MIC](https://nssmic.ieee.org/2024/) **+1**
@@ -15,6 +16,8 @@
 <details>
 <summary>Click for More</summary>
 <ul>
+
+
 
 <li> 
  <i><strong>2023.10</strong></i>: <a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine" target=" _blank">AIM </a> <i><strong>+1</strong></i>
