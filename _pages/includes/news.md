@@ -20,7 +20,7 @@
 
 
 <li> 
- <i><strong>2023.10</strong></i>: <a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine" target=" _blank">AIM </a> <i><strong>+1</strong></i>
+ <i><strong>2023.10</strong></i>: <a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine" target=" _blank">AIM </a>IF 6.1 <i> <strong>+1</strong></i>
 </li>
 
 <li> 
