@@ -32,7 +32,7 @@
 </div>
 </div>
 
-- `PR` **Yongsong Huang**, Tomo Miyazaki, Xiaofeng Liu, Yafei Dong, Shinichiro Omachi. "Texture and Noise Dual Adaptation for Infrared Image Super-Resolution" *Pattern Recognition* (Accepted).
+- `PR` **Yongsong Huang**, Tomo Miyazaki, Xiaofeng Liu, Yafei Dong, Shinichiro Omachi. "[Texture and Noise Dual Adaptation for Infrared Image Super-Resolution](https://doi.org/10.1016/j.patcog.2025.111449)" *Pattern Recognition* (Accepted).
 - `AIM` **Yongsong Huang**, Wanqing Xie, Mingzhen Li, Ethan Xiao, Jane You, Xiaofeng Liu. "[Source-free domain adaptive segmentation with class-balanced complementary self-training](https://www.sciencedirect.com/science/article/pii/S0933365723002087)" *Artificial Intelligence in Medicines* 146 (2023): 102694.
 - `IPMI` **Yongsong Huang**, Wanqing Xie, Mingzhen Li, Mingmei Cheng, Jinzhou Wu, Weixiao Wang, Jane You, Xiaofeng Liu. "[Vicinal Feature Statistics Augmentation for Federated 3D Medical Volume Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_28)" *International Conference on Information Processing in Medical Imaging.* pp. 360-371.
 - `IEEE SPL` **Yongsong Huang**, Zetao Jiang, Rushi Lan, Shaoqin Zhang, and Kui Pi. "[Infrared Image Super-Resolution via Transfer Learning and PSRGAN.](https://ieeexplore.ieee.org/abstract/document/9424970/)" *IEEE Signal Processing Letters* 28 (2021): 982-986.
