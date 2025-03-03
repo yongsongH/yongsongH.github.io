@@ -16,7 +16,8 @@
     - **MLMI Workshop** @ [MICCAI 23](https://sites.google.com/view/mlmi2023) / [24](https://sites.google.com/view/mlmi2024)
 - Journal Reviewer (Selected)
     -  **[Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence)**
-    -  **[IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)** 
+    -  **[IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)**
+    -  **[IEEE JBHI](https://www.embs.org/jbhi/)** 
     -  **[Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters)** 
     -  **[Neural Processing Letters](https://www.springer.com/journal/11063)** 
     -  **[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing)** 
@@ -24,7 +25,6 @@
     -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** 
     -  **[Optics Express](https://opg.optica.org/oe/home.cfm)** 
     -  **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)**
-    -  **[Scientific Reports](https://www.nature.com/srep/)** 
 
 # Academic Experience
 - [National Taiwan University](https://www.csie.ntu.edu.tw/~acpang/fgcn/index.html) (01/2024 - 03/2024, Visiting Researcher, **Taipei**)
