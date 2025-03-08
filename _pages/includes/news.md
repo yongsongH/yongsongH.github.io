@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2025/02** - [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems) IF 7.2 **+1**
 - **2025/02** - [PR](https://www.sciencedirect.com/journal/pattern-recognition) IF 7.5 **+1**
 - **2025/01** - Serve as PC Member @ *[IJCAI-25](https://2025.ijcai.org/)* 
 - **2025/01** - [IEEE ISBI](https://biomedicalimaging.org/2025/?__hstc=51849206.7110752f15b81450c56dccb2713df518.1735882462803.1735882462803.1735882462803.1&__hssc=51849206.4.1735882462803&__hsfp=570990055) **+1**
@@ -9,7 +10,7 @@
 - **2024/05** - [IRSRMamba](https://github.com/yongsongH/IRSRMamba) is available.
 - **2024/04** - Serve as Research Affiliate @ *[Yale School of Medicine](https://medicine.yale.edu/lab/x-liu/org-profile/yongsong-huang/122931/)* 
 - **2024/04** - [PMB](https://iopscience.iop.org/journal/0031-9155) IF 3.5 **+1**
-- **2024/03** - Invited Talk: *[Tohoku University](https://www.tohoku.ac.jp/en/) - [National Taiwan University](https://www.ntu.edu.tw/english/) 7th Symposium* @ Taipei
+
 
 
 
@@ -17,7 +18,9 @@
 <summary>Click for More</summary>
 <ul>
 
-
+<li> 
+ <i><strong>2024.03</strong></i>: Invited Talk: Tohoku University-National Taiwan University 7th Symposium @ <a href="https://www.ntu.edu.tw/english/" target=" _blank"> Taipei</a>
+</li>
 
 <li> 
  <i><strong>2023.10</strong></i>: <a href="https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine" target=" _blank">AIM </a>IF 6.1 <i> <strong>+1</strong></i>
