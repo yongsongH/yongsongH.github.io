@@ -40,13 +40,13 @@
 
 # Events
 
+> [**Sendai, JP, 東北大学総合知インフォマティクス研究センター 2024年度年次報告シンポジウム**](https://www.aisogochi.tohoku.ac.jp/archives/507)
+
+> [**Sendai, JP, The 8th Tohoku – NTU Symposium on Interdisciplinary AI and Human Studies**](https://www.riec.tohoku.ac.jp/ja/events-ja/2025022601/)
+
 > [**Sendai, JP, The 6th International Symposium on AI and Electronics**](https://www.aie.tohoku.ac.jp/english/event/event_20250129.html)
 
 > [**Kumamoto, JP, 27th Meeting on Image Recognition and Understanding**](https://miru-committee.github.io/miru2024/en/)
-
-> [**Taipei, Tohoku University - National Taiwan University 7th Symposium**](https://ai.robo.ntu.edu.tw/news_view.php?id=123)
-
-> [**Paris, France, ICCV 2023**](https://iccv2023.thecvf.com/)
 
 
 
@@ -54,6 +54,14 @@
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+<a href="https://ai.robo.ntu.edu.tw/news_view.php?id=123" target=" _blank"> Tohoku University - National Taiwan University 7th Symposium </a> Taipei
+</li>
+
+<li> 
+<a href="https://iccv2023.thecvf.com/" target=" _blank"> ICCV 2023 </a> Paris, France
+</li>
 
 <li> 
 <a href="https://www.aie.tohoku.ac.jp/event/event_20230213.html" target=" _blank"> The 4th International Symposium on AI and Electronics </a> Sendai, JP
@@ -88,8 +96,13 @@ If you are interested, please email your complete CV for consideration. Along wi
 
 **Useful Links:**
 - Financial Support: [AIE](https://www.aie.tohoku.ac.jp/) / [JSPS](https://www.jsps.go.jp/j-pd/) / [JST](https://pgd.tohoku.ac.jp/rpc/next_generation.html) / [Boot AI](https://pgd.tohoku.ac.jp/english/rpc/next_generation_AI.html)
-- Department Homepage: [Graduate School of Engineering](https://www.eng.tohoku.ac.jp/english/) / [Center for So-Go-Chi (Convergence Knowledge) Informatics](https://www.aisogochi.tohoku.ac.jp/) / [RIEC](https://www.riec.tohoku.ac.jp/ja/)
+- Department Homepage: [Graduate School of Engineering](https://www.eng.tohoku.ac.jp/english/) / [Advanced Institute of Convergence Knowledge Informatics](https://www.aisogochi.tohoku.ac.jp/) / [RIEC](https://www.riec.tohoku.ac.jp/ja/)
 - Collaborative Partners: Yale University, NTU, Google, Amazon, and more.
+
+**Contact Us:**
+- 宮城県 仙台市青葉区 荒巻字青葉6-6-05 電気系1号館 621・641号室
+- Phone: 022-795-7088
+- Fax: 022-795-7090
 
 <div style="margin:50px 0;">
 <a href="https://clustrmaps.com/site/1bt8f" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=300&t=n&d=VZSmIbj0J6KgisU0jvP5tNLI9tffMW1LiLpPgS_Yie8&co=ffffff&ct=808080" /></a>
