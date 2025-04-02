@@ -33,7 +33,7 @@
 
 # TA and RA
 - Yale School of Medicine, Yale University (04/2024 - Now, **RA**)
-- Graduate School of Engineering, Tohoku University (08/2022 - Now, **RA**)
+- Graduate School of Engineering, Tohoku University (08/2022 - 03/2025, **RA**)
 - Harvard Medical School, Harvard University (12/2022 - 03/2024, **RA**)
 - Lecture: ***C Programming プログラミング演習A*** (Spring Term, 2024, **TA**)
 - Lecture: ***Computer Network*** (Spring Term, 2020, **TA**)
