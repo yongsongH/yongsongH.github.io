@@ -9,7 +9,6 @@
 - **2024/05** - [MIRU2024](https://miru-committee.github.io/miru2024/en/)  **+1**
 - **2024/05** - [IRSRMamba](https://github.com/yongsongH/IRSRMamba) is available.
 - **2024/04** - Serve as Research Affiliate @ *[Yale School of Medicine](https://medicine.yale.edu/lab/x-liu/org-profile/yongsong-huang/122931/)* 
-- **2024/04** - [PMB](https://iopscience.iop.org/journal/0031-9155) IF 3.5 **+1**
 
 
 
@@ -17,6 +16,10 @@
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+ <i><strong>2024.04</strong></i>: <a href="https://iopscience.iop.org/journal/0031-9155" target=" _blank">PMB </a>IF 3.5 <i> <strong>+1</strong></i>
+</li>
 
 <li> 
  <i><strong>2024.03</strong></i>: Invited Talk: Tohoku University-National Taiwan University 7th Symposium @ <a href="https://www.ntu.edu.tw/english/" target=" _blank"> Taipei</a>
