@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2025/04** - Serve as Guest Editor for the *[ APSIPA Trans. Signal Inf. Process.](https://www.nowpublishers.com/SIP)* 
 - **2025/03** - [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems) IF 7.2 **+1**
 - **2025/02** - [PR](https://www.sciencedirect.com/journal/pattern-recognition) IF 7.5 **+1**
 - **2025/01** - Serve as PC Member @ *[IJCAI-25](https://2025.ijcai.org/)* 
@@ -8,14 +9,16 @@
 - **2024/07** - Awarded the [2024 JSPS Special Research Grant Allowance](https://www.jsps.go.jp/j-pd/pd_oubo.html).
 - **2024/05** - [MIRU2024](https://miru-committee.github.io/miru2024/en/)  **+1**
 - **2024/05** - [IRSRMamba](https://github.com/yongsongH/IRSRMamba) is available.
-- **2024/04** - Serve as Research Affiliate @ *[Yale School of Medicine](https://medicine.yale.edu/lab/x-liu/org-profile/yongsong-huang/122931/)* 
-
 
 
 
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+ <i><strong>2024.04</strong></i>: Serve as Research Affiliate @ <a href="https://medicine.yale.edu/lab/x-liu/org-profile/yongsong-huang/122931/" target=" _blank"> Yale School of Medicine </a>
+</li>
 
 <li> 
  <i><strong>2024.04</strong></i>: <a href="https://iopscience.iop.org/journal/0031-9155" target=" _blank">PMB </a>IF 3.5 <i> <strong>+1</strong></i>
