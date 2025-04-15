@@ -15,9 +15,10 @@
     - **MICCAI**  [23](https://conferences.miccai.org/2023/en/) / [24](https://conferences.miccai.org/2024/en/) / [25](https://conferences.miccai.org/2025/en/default.asp)
     - **MLMI Workshop** @ [MICCAI 23](https://sites.google.com/view/mlmi2023) / [24](https://sites.google.com/view/mlmi2024)
 - Journal Reviewer (Selected)
-    -  **[Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence)**
+    -  **[IEEE TIP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)**
     -  **[IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)**
     -  **[IEEE JBHI](https://www.embs.org/jbhi/)** 
+    -  **[Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence)**
     -  **[Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters)** 
     -  **[Neural Processing Letters](https://www.springer.com/journal/11063)** 
     -  **[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing)** 
