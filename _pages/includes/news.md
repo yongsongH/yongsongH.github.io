@@ -1,6 +1,6 @@
 # 🛎 News
 
-- **2025/04** - Serve as Guest Editor for the *[ APSIPA Trans. Signal Inf. Process.](https://www.nowpublishers.com/SIP)* 
+- **2025/04** - Serve as Guest Editor for the *[ APSIPA Trans. Signal Inf. Process.](https://www.nowpublishers.com/SIP)* IF 3.2 
 - **2025/03** - [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems) IF 7.2 **+1**
 - **2025/02** - [PR](https://www.sciencedirect.com/journal/pattern-recognition) IF 7.5 **+1**
 - **2025/01** - Serve as PC Member @ *[IJCAI-25](https://2025.ijcai.org/)* 
