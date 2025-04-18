@@ -41,13 +41,14 @@
 
 # Events
 
+> [**Houston, TX, USA, International Symposium on Biomedical Imaging (ISBI 2025)**](https://biomedicalimaging.org/2025/)
+
 > [**Sendai, JP, 東北大学総合知インフォマティクス研究センター 2024年度年次報告シンポジウム**](https://www.aisogochi.tohoku.ac.jp/archives/507)
 
 > [**Sendai, JP, The 8th Tohoku – NTU Symposium on Interdisciplinary AI and Human Studies**](https://www.riec.tohoku.ac.jp/ja/events-ja/2025022601/)
 
 > [**Sendai, JP, The 6th International Symposium on AI and Electronics**](https://www.aie.tohoku.ac.jp/english/event/event_20250129.html)
 
-> [**Kumamoto, JP, 27th Meeting on Image Recognition and Understanding**](https://miru-committee.github.io/miru2024/en/)
 
 
 
@@ -55,6 +56,10 @@
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+<a href="https://miru-committee.github.io/miru2024/en/" target=" _blank"> 27th Meeting on Image Recognition and Understanding </a> Kumamoto, JP
+</li>
 
 <li> 
 <a href="https://ai.robo.ntu.edu.tw/news_view.php?id=123" target=" _blank"> Tohoku University - National Taiwan University 7th Symposium </a> Taipei
