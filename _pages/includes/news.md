@@ -17,7 +17,7 @@
 <ul>
 
 <li> 
- <i><strong>2024.04</strong></i>: Serve as Research Affiliate @ <a href="https://medicine.yale.edu/lab/x-liu/org-profile/yongsong-huang/122931/" target=" _blank"> Yale School of Medicine </a>
+ <i><strong>2024.04</strong></i>: Serve as Research Affiliate @ <a href="https://medicine.yale.edu/profile/yongsong-huang/" target=" _blank"> Yale School of Medicine </a>
 </li>
 
 <li> 
