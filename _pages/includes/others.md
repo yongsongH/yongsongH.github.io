@@ -17,12 +17,11 @@
 - Journal Reviewer (Selected)
     -  **[IEEE TIP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)**
     -  **[IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)**
-    -  **[IEEE JBHI](https://www.embs.org/jbhi/)** 
+    -  **[IEEE JBHI](https://www.embs.org/jbhi/)**
+    -  **[Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)** 
     -  **[Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence)**
     -  **[Pattern Recognition Letters](https://www.sciencedirect.com/journal/pattern-recognition-letters)** 
     -  **[Neural Processing Letters](https://www.springer.com/journal/11063)** 
-    -  **[Image and Vision Computing](https://www.sciencedirect.com/journal/image-and-vision-computing)** 
-    -  **[Multimedia Systems](https://www.springer.com/journal/530)**
     -  **[Optics & Laser Technology](https://www.journals.elsevier.com/optics-and-laser-technology)** 
     -  **[Optics Express](https://opg.optica.org/oe/home.cfm)** 
     -  **[Applied Optics](https://www.osapublishing.org/ao/home.cfm)**
