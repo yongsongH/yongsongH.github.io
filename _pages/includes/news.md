@@ -4,7 +4,7 @@
 - **2025/04** - Serve as Guest Editor for the *[ APSIPA T-SIP](https://www.nowpublishers.com/SIP)* IF 3.2 
 - **2025/03** - [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems) IF 7.2 **+1**
 - **2025/02** - [PR](https://www.sciencedirect.com/journal/pattern-recognition) IF 7.6 **+1**
-- **2025/01** - Serve as PC Member @ *[IJCAI-25](https://certificates.ijcai.org/?q=reviewers&y=2025&id=b920eded-c07d-4aff-b256-dbc7bd88e321)* 
+- **2025/01** - Serve as PC Member @ *[IJCAI-25](https://drive.google.com/file/d/11OySr3g_LIXaU73TtPF3Ln2Kad_G-DIW/view?usp=drive_link)* 
 - **2025/01** - [IEEE ISBI](https://biomedicalimaging.org/2025/?__hstc=51849206.7110752f15b81450c56dccb2713df518.1735882462803.1735882462803.1735882462803.1&__hssc=51849206.4.1735882462803&__hsfp=570990055) **+1**
 - **2024/07** - [IEEE NSS MIC](https://nssmic.ieee.org/2024/) **+1**
 - **2024/07** - Awarded the [2024 JSPS Special Research Grant Allowance](https://www.jsps.go.jp/j-pd/pd_oubo.html).
