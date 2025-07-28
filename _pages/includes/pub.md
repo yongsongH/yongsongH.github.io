@@ -1,6 +1,17 @@
 
 # Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 GPSMamba </div><img src='https://github.com/yongsongH/GPSMamba/blob/main/experiments/pretrained_models/GPSMamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+
+[GPSMamba: A Global Phase and Spectral Prompt-guided Mamba for Infrared Image Super-Resolution.](https://arxiv.org/pdf/2507.18998)
+   
+   
+**Yongsong Huang**, Tomo Miyazaki, Xiaofeng Liu, Shinichiro Omachi [![](https://img.shields.io/github/stars/yongsongH/GPSMamba?style=social&label=Stars)](https://github.com/yongsongH/GPSMamba)
+   
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IEEE TGRS </div><img src='images/IRSRMamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
