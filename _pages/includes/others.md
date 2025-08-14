@@ -9,7 +9,9 @@
 - Professional Memberships
     - [**IEEE**](https://drive.google.com/file/d/1a1tIx17jY2ED-FUjKDvM8P34Gmyj53dq/view?usp=drive_link) Member
     - [**MICCAI**](http://www.miccai.org/) Member
-    - [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member 
+    - [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member
+- External Expert Reviewer
+    - [**National Agency for Research and Development (ANID)**](https://anid.cl/about-us/) Chile
 - Conference Reviewer
     - **IJCAI** [25](https://2025.ijcai.org/) 
     - **NeurIPS** [23](https://nips.cc/)  
