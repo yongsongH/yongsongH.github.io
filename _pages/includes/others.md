@@ -10,6 +10,7 @@
     - [**IEEE**](https://drive.google.com/file/d/1a1tIx17jY2ED-FUjKDvM8P34Gmyj53dq/view?usp=drive_link) Member
     - [**MICCAI**](http://www.miccai.org/) Member
     - [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member
+    - [**GBD**](https://www.healthdata.org/research-analysis/gbd-publications)  Collaborator
 - External Expert Reviewer
     - [**National Agency for Research and Development (ANID)**](https://anid.cl/about-us/) Chile
 - Conference Reviewer
