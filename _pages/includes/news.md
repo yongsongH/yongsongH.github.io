@@ -16,7 +16,7 @@
 <ul>
 
 <li> 
- <i><strong>2025.01</strong></i>: <a href="[[https://nssmic.ieee.org/2024/](https://biomedicalimaging.org/2025/?__hstc=51849206.7110752f15b81450c56dccb2713df518.1735882462803.1735882462803.1735882462803.1&__hssc=51849206.4.1735882462803&__hsfp=570990055)](https://biomedicalimaging.org/2025/?__hstc=51849206.7110752f15b81450c56dccb2713df518.1735882462803.1735882462803.1735882462803.1&__hssc=51849206.4.1735882462803&__hsfp=570990055)" target=" _blank">IEEE ISBI </a> <i> <strong>+1</strong></i>
+ <i><strong>2025.01</strong></i>: <a> IEEE ISBI </a> <i> <strong>+1</strong></i>
 </li>
 
 <li> 
