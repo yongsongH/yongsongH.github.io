@@ -23,7 +23,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IR image super-resolution survey</div><img src='images/fig2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IEEE J-STARS </div><img src='images/fig2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [Infrared Image Super-Resolution: Systematic Review, and Future Trends](https://arxiv.org/pdf/2212.12322)
