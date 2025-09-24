@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2025/09** - [IEEE J-STARS](https://www.sciencedirect.com/journal/pattern-recognition) IF 5.3 **+1**
 - **2025/09** - Serve as [External Expert Reviewer](https://drive.google.com/file/d/1LIdvOeASX_DzVciosd5Dd16P_JCDWMyD/view?usp=drive_link) @ [ **ANID**](https://anid.cl/about-us/) 🇨🇱
 - **2025/08** - [ICONIP 2025](https://iconip2025.apnns.org/) Spotlight **+1 (30/1029)**
 - **2025/07** - [GPSMamba](https://github.com/yongsongH/GPSMamba) is available.
@@ -7,13 +8,16 @@
 - **2025/04** - Serve as Guest Editor for the *[ APSIPA T-SIP](https://www.nowpublishers.com/SIP)* IF 3.2 
 - **2025/03** - [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems) IF 7.2 **+1**
 - **2025/02** - [PR](https://www.sciencedirect.com/journal/pattern-recognition) IF 7.6 **+1**
-- **2025/01** - Serve as PC Member @ *[IJCAI-25](https://drive.google.com/file/d/11OySr3g_LIXaU73TtPF3Ln2Kad_G-DIW/view?usp=drive_link)* 
 
 
 
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+ <i><strong>2025.01</strong></i>: Serve as PC Member @ <a href="https://drive.google.com/file/d/11OySr3g_LIXaU73TtPF3Ln2Kad_G-DIW/view?usp=drive_link" target=" _blank"> IJCAI-25 </a>
+</li>
 
 <li> 
  <i><strong>2025.01</strong></i>: <a> IEEE ISBI </a> <i> <strong>+1</strong></i>
