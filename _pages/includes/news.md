@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2025/11** - [The Lancet Neurology](https://www.sciencedirect.com/journal/the-lancet-neurology) (GBD Collaborators) IF 45.5 **+1**
 - **2025/10** - [The Lancet](https://www.thelancet.com/journals/lancet/home) (GBD Collaborators) IF 88.5 **+2**
 - **2025/09** - [IEEE J-STARS](https://www.grss-ieee.org/publications/journal-of-selected-topics-in-applied-earth-observations-and-remote-sensing/) IF 5.3 **+1**
 - **2025/09** - Serve as [External Expert Reviewer](https://drive.google.com/file/d/1LIdvOeASX_DzVciosd5Dd16P_JCDWMyD/view?usp=drive_link) @ [ **ANID**](https://anid.cl/about-us/) 🇨🇱
