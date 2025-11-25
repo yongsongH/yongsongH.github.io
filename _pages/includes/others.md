@@ -47,6 +47,8 @@
 
 # Events
 
+> [**Okinawa, JP, ICONIP2025**](https://iconip2025.apnns.org/)
+
 > [**Houston, TX, USA, International Symposium on Biomedical Imaging (ISBI 2025)**](https://biomedicalimaging.org/2025/)
 
 > [**Sendai, JP, 東北大学総合知インフォマティクス研究センター 2024年度年次報告シンポジウム**](https://www.aisogochi.tohoku.ac.jp/archives/507)
