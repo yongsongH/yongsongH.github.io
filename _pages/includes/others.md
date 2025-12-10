@@ -24,6 +24,7 @@
 - Journal Reviewer (Selected)
     -  **[IEEE TIP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)**
     -  **[IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)**
+    -  **[IEEE TMM](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia)**
     -  **[IEEE JBHI](https://www.embs.org/jbhi/)**
     -  **[Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)** 
     -  **[Artificial Intelligence](https://www.sciencedirect.com/journal/artificial-intelligence)**
