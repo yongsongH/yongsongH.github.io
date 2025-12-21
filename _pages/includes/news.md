@@ -1,21 +1,28 @@
 # 🛎 News
 
+- **2025/12** - [The Lancet Infectious Diseases](https://www.thelancet.com/journals/laninf/home) (GBD Collaborators) IF 31.0 **+1**
 - **2025/11** - [The Lancet Neurology](https://www.sciencedirect.com/journal/the-lancet-neurology) (GBD Collaborators) IF 45.5 **+1**
-- **2025/10** - [The Lancet](https://www.thelancet.com/journals/lancet/home) (GBD Collaborators) IF 88.5 **+2**
+- **2025/10** - [The Lancet](https://www.thelancet.com/journals/lancet/home) (GBD Collaborators) IF 88.5 **+1**
 - **2025/09** - [IEEE J-STARS](https://www.grss-ieee.org/publications/journal-of-selected-topics-in-applied-earth-observations-and-remote-sensing/) IF 5.3 **+1**
 - **2025/09** - Serve as [External Expert Reviewer](https://drive.google.com/file/d/1LIdvOeASX_DzVciosd5Dd16P_JCDWMyD/view?usp=drive_link) @ [ **ANID**](https://anid.cl/about-us/) 🇨🇱
 - **2025/08** - [ICONIP 2025](https://iconip2025.apnns.org/) Spotlight **+1 (30/1029)**
 - **2025/07** - [GPSMamba](https://github.com/yongsongH/GPSMamba) is available.
 - **2025/06** - [IEEE TGRS](https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/) IF 8.6 **+1**
 - **2025/04** - Serve as Guest Editor for the *[ APSIPA T-SIP](https://www.nowpublishers.com/SIP)* IF 3.2 
-- **2025/03** - [KBS](https://www.sciencedirect.com/journal/knowledge-based-systems) IF 7.2 **+1**
-- **2025/02** - [PR](https://www.sciencedirect.com/journal/pattern-recognition) IF 7.6 **+1**
 
 
 
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+ <i><strong>2025.03</strong></i>: <a href="https://www.sciencedirect.com/journal/knowledge-based-systems" target=" _blank">KBS </a>IF 7.2 <i> <strong>+1</strong></i>
+</li>
+
+<li> 
+ <i><strong>2025.02</strong></i>: <a href="https://www.sciencedirect.com/journal/pattern-recognition" target=" _blank">PR </a>IF 7.6 <i> <strong>+1</strong></i>
+</li>
 
 <li> 
  <i><strong>2025.01</strong></i>: Serve as PC Member @ <a href="https://drive.google.com/file/d/11OySr3g_LIXaU73TtPF3Ln2Kad_G-DIW/view?usp=drive_link" target=" _blank"> IJCAI-25 </a>
