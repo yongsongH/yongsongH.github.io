@@ -24,6 +24,7 @@
 - Journal Reviewer (Selected)
     -  **[IEEE TIP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)**
     -  **[IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)**
+    -  **[IEEE TGRS](https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/)**
     -  **[IEEE TMM](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia)**
     -  **[IEEE TBME](https://www.embs.org/tbme/)**
     -  **[IEEE JBHI](https://www.embs.org/jbhi/)**
