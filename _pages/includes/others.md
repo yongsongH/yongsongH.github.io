@@ -22,6 +22,7 @@
     - **MLMI Workshop** @ [MICCAI 23](https://sites.google.com/view/mlmi2023) / [24](https://sites.google.com/view/mlmi2024)
     - **ICONIP** [25](https://iconip2025.apnns.org/)
 - Journal Reviewer (Selected)
+    -  **[IEEE TPAMI](https://www.computer.org/csdl/journal/tp)**
     -  **[IEEE TIP](https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing)**
     -  **[IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)**
     -  **[IEEE TGRS](https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/)**
