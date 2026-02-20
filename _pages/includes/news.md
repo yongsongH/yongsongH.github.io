@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2026/02** - Awarded the [RIEC Award 東北大学学生賞](https://www.riec.tohoku.ac.jp/ja/info/riec-award/r7/).
 - **2026/01** - [ICASSP 2026](https://2026.ieeeicassp.org/event/about-conference/) **+1**
 - **2026/01** - [ISBI 2026](https://biomedicalimaging.org/2026/) **+2**
 - **2025/12** - [The Lancet Infectious Diseases](https://www.thelancet.com/journals/laninf/home) (GBD Collaborators) IF 31.0 **+1**
