@@ -8,14 +8,22 @@
 - **2025/09** - [IEEE J-STARS](https://www.grss-ieee.org/publications/journal-of-selected-topics-in-applied-earth-observations-and-remote-sensing/) IF 5.3 **+1**
 - **2025/09** - Serve as [External Expert Reviewer](https://drive.google.com/file/d/1LIdvOeASX_DzVciosd5Dd16P_JCDWMyD/view?usp=drive_link) @ [ **ANID**](https://anid.cl/about-us/) 🇨🇱
 - **2025/08** - [ICONIP 2025](https://iconip2025.apnns.org/) Spotlight **+1 (30/1029)**
-- **2025/07** - [GPSMamba](https://github.com/yongsongH/GPSMamba) is available.
-- **2025/06** - [IEEE TGRS](https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/) IF 8.6 **+1**
 
 
 
 <details>
 <summary>Click for More</summary>
 <ul>
+
+
+<li> 
+ <i><strong>2025.01</strong></i>: GPSMamba  <a href="https://github.com/yongsongH/GPSMamba" target=" _blank"> is available. </a>
+</li>
+
+
+<li> 
+ <i><strong>2025.06</strong></i>: <a href="https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/" target=" _blank">IEEE TGRS </a>IF 8.6 <i> <strong>+1</strong></i>
+</li>
 
 <li> 
  <i><strong>2025.04</strong></i>: Serve as Guest Editor for the <a href="https://www.nowpublishers.com/SIP" target=" _blank">  APSIPA T-SIP </a> IF 3.2
