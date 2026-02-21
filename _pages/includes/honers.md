@@ -1,6 +1,6 @@
 # Honors and Awards
 
-- *Feb. 2026* - 2025年度（第15回）RIEC Award 東北大学学生賞, (**東北大学電気通信研究所**)[電気通信工学振興会](https://www.riec.tohoku.ac.jp/ja/info/riec-award/r7/)
+- *Feb. 2026* - 第15回 RIEC Award 東北大学学生賞, (**東北大学電気通信研究所**)[電気通信工学振興会](https://www.riec.tohoku.ac.jp/ja/info/riec-award/r7/)
 
 - *Jul. 2024* - JSPS Special Research Grant Allowance, (**日本学術振興会**)[日本学術振興会特別研究員奨励費](https://www.jsps.go.jp/j-pd/pd_oubo.html)
 
