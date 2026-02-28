@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2026/03** - [The Lancet](https://www.thelancet.com/journals/lancet/home) (GBD) IF 88.5 **+1**
 - **2026/02** - [CVPR 2026](https://cvpr.thecvf.com/) **+1**
 - **2026/02** - Promotion to GBD Senior Collaborator.
 - **2026/02** - Awarded the [RIEC Award 東北大学学生賞](https://www.riec.tohoku.ac.jp/ja/info/riec-award/r7/).
@@ -9,13 +10,14 @@
 - **2025/11** - [The Lancet Neurology](https://www.sciencedirect.com/journal/the-lancet-neurology) (GBD Collaborators) IF 45.5 **+1**
 - **2025/10** - [The Lancet](https://www.thelancet.com/journals/lancet/home) (GBD Collaborators) IF 88.5 **+1**
 - **2025/09** - [IEEE J-STARS](https://www.grss-ieee.org/publications/journal-of-selected-topics-in-applied-earth-observations-and-remote-sensing/) IF 5.3 **+1**
-- **2025/09** - Serve as [External Expert Reviewer](https://drive.google.com/file/d/1LIdvOeASX_DzVciosd5Dd16P_JCDWMyD/view?usp=drive_link) @ [ **ANID**](https://anid.cl/about-us/) 🇨🇱
-
-
 
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+ <i><strong>2025.09</strong></i>: Serve as External Expert Reviewer @<a href="https://drive.google.com/file/d/1LIdvOeASX_DzVciosd5Dd16P_JCDWMyD/view?usp=drive_link" target=" _blank"> ANID 🇨🇱</a>
+</li>
 
 <li> 
  <i><strong>2025.08</strong></i>: <a href="https://iconip2025.apnns.org/" target=" _blank">ICONIP 2025 </a>Spotlight +1 (30/1029) <i> <strong>+1</strong></i>
