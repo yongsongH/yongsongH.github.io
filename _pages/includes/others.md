@@ -1,5 +1,11 @@
 
-
+# Research Projects
+- [Grant-in-Aid for Young Scientists](https://www.jsps.go.jp/english/e-grants/grants01.html) 04/2026 – 03/2029 | ¥5,000,000 (Direct Cost: ¥3,500,000) | **[KAKEN](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23KJ0118)** **PI** 
+    - [**日本学術振興会 科学研究費助成事業 若手研究**](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23KJ0118) Budget Amount (Direct Cost: ¥3,500,000)
+- [SOKAP-Connect Projects](https://sites.google.com/tohoku.ac.jp/sokap/news) 02/2026 – 03/2028 | ¥2,000,000 (Direct Cost: ¥2,000,000) | **[国際卓越研究大学助成金](https://sites.google.com/tohoku.ac.jp/sokap/news)** **PI** 
+    - [**SOKAP-Connect 課題発掘型**](https://sites.google.com/tohoku.ac.jp/sokap/projects) Budget Amount (Direct Cost: ¥2,000,000)
+- [Grant-in-Aid for JSPS Fellows](https://www.jsps.go.jp/english/e-grants/grants01.html) 04/2023 – 03/2025 | ¥1,600,000 (Direct Cost: ¥1,600,000) | **[KAKEN](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23KJ0118)** **PI** 
+    - [**日本学術振興会 科学研究費助成事業 特別研究員奨励費**](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23KJ0118) Area Number (JP23KJ0118) / Budget Amount (Direct Cost: ¥1,600,000)
 
 # Patent and China Software-copyright
 1. [Method for realizing image threshold segmentation based on generalized entropy combined improved lion group algorithm](https://patents.google.com/patent/CN109712160B/en) **(Patent, No: 201811596721.8)**
