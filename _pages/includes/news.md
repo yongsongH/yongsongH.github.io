@@ -4,8 +4,8 @@
 - **2026/02** - [CVPR 2026](https://cvpr.thecvf.com/) **+1**
 - **2026/02** - Promotion to GBD Senior Collaborator.
 - **2026/02** - Awarded the [RIEC Award 東北大学学生賞](https://www.riec.tohoku.ac.jp/ja/info/riec-award/r7/).
-- **2026/01** - [ICASSP 2026 Oral](https://2026.ieeeicassp.org/event/about-conference/) **+1**
-- **2026/01** - [ISBI 2026](https://biomedicalimaging.org/2026/) **+2**
+- **2026/01** - [ICASSP 2026](https://2026.ieeeicassp.org/event/about-conference/) Oral **+1**
+- **2026/01** - [ISBI 2026](https://biomedicalimaging.org/2026/) Oral **+2**
 - **2025/12** - [The Lancet Infectious Diseases](https://www.thelancet.com/journals/laninf/home) (GBD Collaborators) IF 31.0 **+1**
 - **2025/11** - [The Lancet Neurology](https://www.sciencedirect.com/journal/the-lancet-neurology) (GBD Collaborators) IF 45.5 **+1**
 - **2025/10** - [The Lancet](https://www.thelancet.com/journals/lancet/home) (GBD Collaborators) IF 88.5 **+1**
