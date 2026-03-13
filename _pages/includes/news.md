@@ -25,7 +25,7 @@
 
 
 <li> 
- <i><strong>2025.01</strong></i>: GPSMamba  <a href="https://github.com/yongsongH/GPSMamba" target=" _blank"> is available. </a>
+ <i><strong>2025.06</strong></i>: GPSMamba  <a href="https://github.com/yongsongH/GPSMamba" target=" _blank"> is available. </a>
 </li>
 
 
