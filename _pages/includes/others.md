@@ -60,15 +60,16 @@
 
 # Events
 
+> [**Barcelona, Spain, 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)**](https://2026.ieeeicassp.org/event/about-conference/)
+
+> [**London, UK, International Symposium on Biomedical Imaging (ISBI 2026)**](https://biomedicalimaging.org/2026/)
+
 > [**Okinawa, JP, ICONIP2025**](https://iconip2025.apnns.org/)
 
 > [**Houston, TX, USA, International Symposium on Biomedical Imaging (ISBI 2025)**](https://biomedicalimaging.org/2025/)
 
 > [**Sendai, JP, 東北大学総合知インフォマティクス研究センター 2024年度年次報告シンポジウム**](https://www.aisogochi.tohoku.ac.jp/archives/507)
 
-> [**Sendai, JP, The 8th Tohoku – NTU Symposium on Interdisciplinary AI and Human Studies**](https://www.riec.tohoku.ac.jp/ja/events-ja/2025022601/)
-
-> [**Sendai, JP, The 6th International Symposium on AI and Electronics**](https://www.aie.tohoku.ac.jp/english/event/event_20250129.html)
 
 
 
@@ -77,6 +78,14 @@
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+<a href="https://www.riec.tohoku.ac.jp/ja/events-ja/2025022601/" target=" _blank"> The 8th Tohoku – NTU Symposium on Interdisciplinary AI and Human Studies </a> Sendai, JP
+</li>
+
+<li> 
+<a href="https://www.aie.tohoku.ac.jp/english/event/event_20250129.html" target=" _blank"> The 6th International Symposium on AI and Electronics </a> Sendai, JP
+</li>
 
 <li> 
 <a href="https://miru-committee.github.io/miru2024/en/" target=" _blank"> 27th Meeting on Image Recognition and Understanding </a> Kumamoto, JP
