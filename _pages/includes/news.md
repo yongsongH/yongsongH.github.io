@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2026/03** - Received the Outstanding Young Researcher Award (若手優秀研究賞).
 - **2026/03** - [The Lancet](https://www.thelancet.com/journals/lancet/home) (GBD) IF 88.5 **+1**
 - **2026/02** - [CVPR 2026](https://cvpr.thecvf.com/) **+1**
 - **2026/02** - Promotion to GBD Senior Collaborator.
