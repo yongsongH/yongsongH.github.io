@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2026/04** - Serve as Session Chair @ [ISBI 2026](https://biomedicalimaging.org/2026/)
 - **2026/03** - Received the Young Researcher Award (若手優秀研究賞).
 - **2026/03** - [The Lancet](https://www.thelancet.com/journals/lancet/home) (GBD) IF 88.5 **+1**
 - **2026/02** - [CVPR 2026](https://cvpr.thecvf.com/) **+1**
@@ -10,11 +11,14 @@
 - **2025/12** - [The Lancet Infectious Diseases](https://www.thelancet.com/journals/laninf/home) (GBD Collaborators) IF 31.0 **+1**
 - **2025/11** - [The Lancet Neurology](https://www.sciencedirect.com/journal/the-lancet-neurology) (GBD Collaborators) IF 45.5 **+1**
 - **2025/10** - [The Lancet](https://www.thelancet.com/journals/lancet/home) (GBD Collaborators) IF 88.5 **+1**
-- **2025/09** - [IEEE J-STARS](https://www.grss-ieee.org/publications/journal-of-selected-topics-in-applied-earth-observations-and-remote-sensing/) IF 5.3 **+1**
 
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+ <i><strong>2025.09</strong></i>: <a href="https://www.grss-ieee.org/publications/journal-of-selected-topics-in-applied-earth-observations-and-remote-sensing/" target=" _blank">IEEE J-STARS </a>IF 5.3 <i> <strong>+1</strong></i>
+</li>
 
 <li> 
  <i><strong>2025.09</strong></i>: Serve as External Expert Reviewer @<a href="https://drive.google.com/file/d/1LIdvOeASX_DzVciosd5Dd16P_JCDWMyD/view?usp=drive_link" target=" _blank"> ANID 🇨🇱</a>
