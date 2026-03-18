@@ -15,14 +15,14 @@
 2. [Image Dataset Toolbox.](https://register.ccopyright.com.cn/query.html) **(Software-copyright,** **No: 2019SR0392414)**
 
 # Services 
-- Session Chair
-    - [**ISBI 2026**](https://biomedicalimaging.org/2026/)
-    - [**FY2025 AI So-Go-Chi Symposium**](https://www.aisogochi.tohoku.ac.jp/en/archives/805)
 - Professional Memberships
     - [**IEEE**](https://drive.google.com/file/d/1a1tIx17jY2ED-FUjKDvM8P34Gmyj53dq/view?usp=drive_link) Member ([SPS](https://signalprocessingsociety.org/) / [GRSS](https://www.grss-ieee.org/))
     - [**MICCAI**](http://www.miccai.org/) Member
     - [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member
     - [**GBD**](https://www.healthdata.org/research-analysis/gbd-publications)  Senior Collaborator
+- Session Chair
+    - [**ISBI 2026**](https://biomedicalimaging.org/2026/)
+    - [**FY2025 AI So-Go-Chi Symposium**](https://www.aisogochi.tohoku.ac.jp/en/archives/805)
 - External Expert Reviewer
     - [**National Agency for Research and Development (ANID)**](https://anid.cl/about-us/) Chile
 - Conference Reviewer
