@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2026/04** - [The Lancet HIV](https://www.thelancet.com/journals/lanhiv/home) (GBD) IF 14.1 **+1**
 - **2026/04** - Serve as Session Chair @ [ISBI 2026](https://biomedicalimaging.org/2026/)
 - **2026/03** - Received the ECEI Excellent Young Researcher Award (若手優秀研究賞).
 - **2026/03** - [The Lancet](https://www.thelancet.com/journals/lancet/home) (GBD) IF 88.5 **+1**
@@ -10,11 +11,15 @@
 - **2026/01** - [ISBI 2026](https://biomedicalimaging.org/2026/) Oral **+2**
 - **2025/12** - [The Lancet Infectious Diseases](https://www.thelancet.com/journals/laninf/home) (GBD Collaborators) IF 31.0 **+1**
 - **2025/11** - [The Lancet Neurology](https://www.sciencedirect.com/journal/the-lancet-neurology) (GBD Collaborators) IF 45.5 **+1**
-- **2025/10** - [The Lancet](https://www.thelancet.com/journals/lancet/home) (GBD Collaborators) IF 88.5 **+1**
 
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+ <i><strong>2025.10</strong></i>: <a href="https://www.thelancet.com/journals/lancet/home" target=" _blank">The Lancet </a> (GBD Collaborators) IF 88.5 <i> <strong>+1</strong></i>
+</li>
+
 
 <li> 
  <i><strong>2025.09</strong></i>: <a href="https://www.grss-ieee.org/publications/journal-of-selected-topics-in-applied-earth-observations-and-remote-sensing/" target=" _blank">IEEE J-STARS </a>IF 5.3 <i> <strong>+1</strong></i>
