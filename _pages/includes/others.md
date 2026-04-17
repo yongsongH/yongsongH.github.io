@@ -1,7 +1,7 @@
 
 # Research Projects
 
-- [Grant-in-Aid for Young Scientists](https://researchmap.jp/hyongsong/research_projects/53391498) 04/2026 ~ 03/2029 - ¥5,000,000 (Direct Cost: ¥3,500,000) **PI** 
+- [Grant-in-Aid for Early-Career Scientists](https://researchmap.jp/hyongsong/research_projects/53391498) 04/2026 ~ 03/2029 - ¥5,000,000 (Direct Cost: ¥3,500,000) **PI** 
     - [**日本学術振興会 科学研究費助成事業 若手研究**](https://nrid.nii.ac.jp/ja/nrid/1000080993427/)
 - [SOKAP-Connect Projects](https://sites.google.com/tohoku.ac.jp/sokap/news) 02/2026 ~ 03/2028 - ¥2,000,000 (Direct Cost: ¥2,000,000) **PI** 
     - [**SOKAP-Connect 課題発掘型**](https://sites.google.com/tohoku.ac.jp/sokap/projects)
