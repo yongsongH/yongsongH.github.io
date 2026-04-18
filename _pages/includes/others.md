@@ -20,7 +20,10 @@
     - [**MICCAI**](http://www.miccai.org/) Member
     - [**OSA**](https://drive.google.com/file/d/13cWzoPDYvSmyj8ZN7q36luCak49iiJnK/view?usp=sharing) Member
     - [**GBD**](https://www.healthdata.org/research-analysis/gbd-publications)  Senior Collaborator
+- Technical Chair
+    - [**MICCAI 2026 Workshop: ELAMI**](https://hula-ai.github.io/miccai-elami-2026/#/)
 - Session Chair
+    - [**ICASSP 2026**](https://2026.ieeeicassp.org/)
     - [**ISBI 2026**](https://biomedicalimaging.org/2026/)
     - [**FY2025 AI So-Go-Chi Symposium**](https://www.aisogochi.tohoku.ac.jp/en/archives/805)
 - External Expert Reviewer
