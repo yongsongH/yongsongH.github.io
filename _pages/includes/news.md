@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2026/05** - Serve as Session Chair @ [ICASSP 2026](https://2026.ieeeicassp.org/)
 - **2026/05** - Serve as Technical Chair @ [MICCAI 2026 Workshop: ELAMI](https://hula-ai.github.io/miccai-elami-2026/#/)
 - **2026/05** - [The Lancet Infectious Diseases](https://www.thelancet.com/journals/laninf/home) (GBD) IF 31.0 **+1**
 - **2026/04** - [The Lancet HIV](https://www.thelancet.com/journals/lanhiv/home) (GBD) IF 14.1 **+1**
@@ -10,11 +11,15 @@
 - **2026/02** - Promotion to GBD Senior Collaborator.
 - **2026/02** - Awarded the [RIEC Award 東北大学学生賞](https://www.riec.tohoku.ac.jp/ja/info/riec-award/r7/).
 - **2026/01** - [ICASSP 2026](https://2026.ieeeicassp.org/event/about-conference/) Oral **+1**
-- **2026/01** - [ISBI 2026](https://biomedicalimaging.org/2026/) Oral **+2**
+
 
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li> 
+ <i><strong>2026.01</strong></i>: <a href="https://biomedicalimaging.org/2026/" target=" _blank">ISBI 2026 </a> <i> <strong>Oral +2</strong></i>
+</li>
 
 <li> 
  <i><strong>2025.12</strong></i>: <a href="https://www.thelancet.com/journals/laninf/home" target=" _blank">The Lancet Infectious Diseases </a> (GBD) IF 31.0 <i> <strong>+1</strong></i>
