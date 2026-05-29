@@ -1,13 +1,13 @@
 
 # Research Projects
 
-- [Grant-in-Aid for Early-Career Scientists](https://researchmap.jp/hyongsong/research_projects/53391498) 04/2026 ~ 03/2029 - ¥5,000,000 (Direct Cost: ¥3,500,000) **PI** 
+- [Grant-in-Aid for Early-Career Scientists](https://researchmap.jp/hyongsong/research_projects/53391498) 04/2026 ~ 03/2029 **PI** 
     - [**日本学術振興会 科学研究費助成事業 若手研究**](https://nrid.nii.ac.jp/ja/nrid/1000080993427/)
-- [SOKAP-Connect Projects](https://sites.google.com/tohoku.ac.jp/sokap/news) 02/2026 ~ 03/2028 - ¥2,000,000 (Direct Cost: ¥2,000,000) **PI** 
+- [SOKAP-Connect Projects](https://sites.google.com/tohoku.ac.jp/sokap/news) 02/2026 ~ 03/2028 **PI** 
     - [**SOKAP-Connect 課題発掘型**](https://sites.google.com/tohoku.ac.jp/sokap/projects)
-- [Tohoku Development Memorial Foundation Research Grant](https://touhokukaihatsu.la.coocan.jp/index.htm) First Term, FY2026 - ¥286,000 **PI** 
+- [Tohoku Development Memorial Foundation Research Grant](https://touhokukaihatsu.la.coocan.jp/index.htm) FY2026 **PI** 
     - [**一般財団法人東北開発記念財団 海外派遣援助**](https://touhokukaihatsu.la.coocan.jp/index.htm)  
-- [Grant-in-Aid for JSPS Fellows](https://www.jsps.go.jp/english/e-grants/grants01.html) 04/2023 ~ 03/2025 - ¥1,600,000 (Direct Cost: ¥1,600,000) **PI** 
+- [Grant-in-Aid for JSPS Fellows](https://www.jsps.go.jp/english/e-grants/grants01.html) 04/2023 ~ 03/2025 **PI** 
     - [**日本学術振興会 科学研究費助成事業 特別研究員奨励費**](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23KJ0118)
 
 # Patent and China Software-copyright
