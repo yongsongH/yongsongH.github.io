@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2026/06** - [The Lancet Public Health](https://www.thelancet.com/journals/laninf/home) (GBD) IF 25.2 **+1** 
 - **2026/05** - Serve as Session Chair @ [ICASSP 2026](https://2026.ieeeicassp.org/)
 - **2026/05** - Serve as Technical Chair @ [MICCAI 2026 Workshop: ELAMI](https://hula-ai.github.io/miccai-elami-2026/#/)
 - **2026/05** - [The Lancet Infectious Diseases](https://www.thelancet.com/journals/laninf/home) (GBD) IF 31.0 **+1**
