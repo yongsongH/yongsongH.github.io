@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2026/08** - [The Lancet Gastroenterology & Hepatology ](https://www.thelancet.com/journals/langas/home) (GBD) IF 39.1 **+1** 
 - **2026/06** - [ECCV 2026](https://eccv.ecva.net/Conferences/2026) **+1**
 - **2026/06** - [The Lancet Public Health](https://www.thelancet.com/journals/laninf/home) (GBD) IF 25.2 **+1** 
 - **2026/05** - Serve as Session Chair @ [ICASSP 2026](https://2026.ieeeicassp.org/)
