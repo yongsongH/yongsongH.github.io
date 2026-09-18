@@ -69,6 +69,8 @@
 
 # Events
 
+> [**Malmö, Sweden, European Conference on Computer Vision (ECCV 2026)**](https://eccv.ecva.net/Conferences/2026)
+
 > [**Barcelona, Spain, 51st International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)**](https://2026.ieeeicassp.org/event/about-conference/)
 
 > [**London, UK, International Symposium on Biomedical Imaging (ISBI 2026)**](https://biomedicalimaging.org/2026/)
@@ -77,16 +79,13 @@
 
 > [**Houston, TX, USA, International Symposium on Biomedical Imaging (ISBI 2025)**](https://biomedicalimaging.org/2025/)
 
-> [**Sendai, JP, 東北大学総合知インフォマティクス研究センター 2024年度年次報告シンポジウム**](https://www.aisogochi.tohoku.ac.jp/archives/507)
-
-
-
-
-
-
 <details>
 <summary>Click for More</summary>
 <ul>
+
+<li>
+<a href="https://www.aisogochi.tohoku.ac.jp/archives/507" target=" _blank"> 東北大学総合知インフォマティクス研究センター 2024年度年次報告シンポジウム </a> Sendai, JP
+</li>
 
 <li> 
 <a href="https://www.riec.tohoku.ac.jp/ja/events-ja/2025022601/" target=" _blank"> The 8th Tohoku – NTU Symposium on Interdisciplinary AI and Human Studies </a> Sendai, JP
