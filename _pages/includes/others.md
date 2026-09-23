@@ -32,6 +32,7 @@
     - [**National Agency for Research and Development (ANID)**](https://anid.cl/about-us/) Chile
 - Conference Reviewer
     - **AAAI** [27](https://aaai.org/conference/aaai/aaai-27/)
+    - **ICASSP** [27](https://2027.ieeeicassp.org/)
     - **CVPR** [26](https://cvpr.thecvf.com/Conferences/2026) 
     - **ICLR** [26](https://iclr.cc/) 
     - **IJCAI** [25](https://2025.ijcai.org/) 
