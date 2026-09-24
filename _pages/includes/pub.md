@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IEEE TGRS </div><img src='images/IRSRMamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box--wide'><div class='paper-box-image'><div><div class="badge">🌟 IEEE TGRS </div><img src="{{ '/images/IRSRMamba.png' | relative_url }}" alt="IRSRMamba architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model](http://arxiv.org/abs/2405.09873)
@@ -23,7 +23,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IEEE J-STARS </div><img src='images/fig2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box--wide'><div class='paper-box-image'><div><div class="badge">🌟 IEEE J-STARS </div><img src="{{ '/images/fig2.png' | relative_url }}" alt="Infrared image super-resolution survey overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [Infrared Image Super-Resolution: Systematic Review, and Future Trends](https://arxiv.org/pdf/2212.12322)
@@ -34,7 +34,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 MICCAI 2022 Workshop (Oral)</div><img src='images/fig3.R1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box--wide'><div class='paper-box-image'><div><div class="badge">🌟 MICCAI 2022 Workshop (Oral)</div><img src="{{ '/images/fig3.R1.png' | relative_url }}" alt="AID-SRGAN architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [Rethinking Degradation: Radiograph Super-Resolution via AID-SRGAN](https://arxiv.org/abs/2208.03008)\\
@@ -55,7 +55,7 @@
 <!-- ## 🎙 Speech Synthesis
 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2019</div><img src="{{ '/images/fs.png' | relative_url }}" alt="FastSpeech architecture" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
@@ -70,7 +70,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICLR 2021</div><img src="{{ '/images/fs2.png' | relative_url }}" alt="FastSpeech 2 architecture" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
@@ -83,7 +83,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2021</div><img src="{{ '/images/portaspeech.png' | relative_url }}" alt="PortaSpeech architecture" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
@@ -93,7 +93,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2022</div><img src="{{ '/images/diffsinger.png' | relative_url }}" alt="DiffSinger architecture" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
