@@ -1,7 +1,7 @@
 
 # Publications 
 
-<div class='paper-box paper-box--wide'><div class='paper-box-image'><div><div class="badge">🌟 GPSMamba </div><img src="{{ '/images/GPSMamba.png' | relative_url }}" alt="GPSMamba architecture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 GPSMamba </div><img src="{{ '/images/GPSMamba.png' | relative_url }}" alt="GPSMamba architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [GPSMamba: A Global Phase and Spectral Prompt-guided Mamba for Infrared Image Super-Resolution.](https://arxiv.org/pdf/2507.18998)
@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div class='paper-box paper-box--wide'><div class='paper-box-image'><div><div class="badge">🌟 IEEE TGRS </div><img src="{{ '/images/IRSRMamba.png' | relative_url }}" alt="IRSRMamba architecture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IEEE TGRS </div><img src="{{ '/images/IRSRMamba.png' | relative_url }}" alt="IRSRMamba architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model](http://arxiv.org/abs/2405.09873)
@@ -23,7 +23,7 @@
 </div>
 </div>
 
-<div class='paper-box paper-box--wide'><div class='paper-box-image'><div><div class="badge">🌟 IEEE J-STARS </div><img src="{{ '/images/fig2.png' | relative_url }}" alt="Infrared image super-resolution survey overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 IEEE J-STARS </div><img src="{{ '/images/fig2.png' | relative_url }}" alt="Infrared image super-resolution survey overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [Infrared Image Super-Resolution: Systematic Review, and Future Trends](https://arxiv.org/pdf/2212.12322)
@@ -34,7 +34,7 @@
 </div>
 </div>
 
-<div class='paper-box paper-box--wide'><div class='paper-box-image'><div><div class="badge">🌟 MICCAI 2022 Workshop (Oral)</div><img src="{{ '/images/fig3.R1.png' | relative_url }}" alt="AID-SRGAN architecture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">🌟 MICCAI 2022 Workshop (Oral)</div><img src="{{ '/images/fig3.R1.png' | relative_url }}" alt="AID-SRGAN architecture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [Rethinking Degradation: Radiograph Super-Resolution via AID-SRGAN](https://arxiv.org/abs/2208.03008)\\
