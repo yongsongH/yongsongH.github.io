@@ -24,6 +24,8 @@
     - [**GBD**](https://www.healthdata.org/research-analysis/gbd-publications)  Senior Collaborator
 - Area Chair
     - [**ICASSP 2027**](https://2027.ieeeicassp.org/)
+- Technical Program Committee
+    - [**ISBI 2027**](https://biomedicalimaging.org/2027/)
 - Technical Chair
     - [**MICCAI 2026 Workshop: ELAMI**](https://hula-ai.github.io/miccai-elami-2026/#/)
 - Session Chair

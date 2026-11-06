@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2026/11** - Serve on the Technical Program Committee @ [ISBI 2027](https://biomedicalimaging.org/2027/)
 - **2026/10** - Serve as Area Chair @ [ICASSP 2027](https://2027.ieeeicassp.org/)
 - **2026/09** - [The Lancet](https://www.thelancet.com/lancet/about) (GBD) IF 109 **+2** 
 - **2026/08** - [The Lancet Gastroenterology & Hepatology ](https://www.thelancet.com/journals/langas/home) (GBD) IF 39.1 **+1** 
