@@ -1,5 +1,6 @@
 # 🛎 News
 
+- **2026/11** - [IEEE TGRS](https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/) **+1**
 - **2026/11** - Serve on the Technical Program Committee @ [ISBI 2027](https://biomedicalimaging.org/2027/)
 - **2026/10** - Serve as Area Chair @ [ICASSP 2027](https://2027.ieeeicassp.org/)
 - **2026/09** - [The Lancet](https://www.thelancet.com/lancet/about) (GBD) IF 109 **+2** 
